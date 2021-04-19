@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T12:56:35.030Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="8MpwdONT5wec67boGkiN" version="14.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T12:58:11.487Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="JmiZ0HuDEXzHc6u25tm0" version="14.6.2" type="github">
   <diagram id="dVWULPc1-X__MVmkzuiI" name="Page-1">
     <mxGraphModel dx="1422" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="votonq6sB_gIMiyyRcs6-56" value="智慧教室" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="votonq6sB_gIMiyyRcs6-56" value="5G智慧教室" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="20" y="10" width="1320" height="720" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-5" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
