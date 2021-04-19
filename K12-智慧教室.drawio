@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T13:17:42.967Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="l7x3Pl_Pu9abipn2SqSd" version="14.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-19T13:18:02.620Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="5DCLZwwJGHOyiVuTirSe" version="14.6.2" type="github" pages="2">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能模块">
     <mxGraphModel dx="1422" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
         <mxCell id="pwbhA8vGE5dWIsQhsapH-6" value="课堂活动：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="Al2z9ClqBcWulVMLrW0T-1">
           <mxGeometry x="95" y="240" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pwbhA8vGE5dWIsQhsapH-7" value="活动结果&lt;br&gt;处理：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="Al2z9ClqBcWulVMLrW0T-1">
+        <mxCell id="pwbhA8vGE5dWIsQhsapH-7" value="活动统计：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="Al2z9ClqBcWulVMLrW0T-1">
           <mxGeometry x="90" y="360" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pwbhA8vGE5dWIsQhsapH-8" value="花名册" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="Al2z9ClqBcWulVMLrW0T-1">
