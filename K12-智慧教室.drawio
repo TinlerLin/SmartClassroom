@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T12:13:02.702Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="qtXJXZ4bJP3aMeF3vRfj" version="14.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T12:14:25.593Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="8bt8KuAkqHNl3DS_dOwX" version="14.6.2" type="github">
   <diagram id="dVWULPc1-X__MVmkzuiI" name="Page-1">
     <mxGraphModel dx="1422" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,25 +14,25 @@
           <mxGeometry x="730" y="90" width="570" height="340" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-6" value="Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="60" y="480" width="1260" height="370" as="geometry" />
+          <mxGeometry x="60" y="530" width="1260" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="votonq6sB_gIMiyyRcs6-7" value="业务服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="120" y="520" width="570" height="320" as="geometry" />
+        <mxCell id="votonq6sB_gIMiyyRcs6-7" value="业务处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="570" width="570" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="votonq6sB_gIMiyyRcs6-8" value="通信服务(WebSocket)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="730" y="520" width="570" height="320" as="geometry" />
+        <mxCell id="votonq6sB_gIMiyyRcs6-8" value="消息通信(WebSocket)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="730" y="570" width="570" height="180" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-11" value="PC端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="150" y="140" width="510" height="130" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-12" value="Web端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="150" y="290" width="510" height="130" as="geometry" />
+          <mxGeometry x="150" y="280" width="510" height="140" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-13" value="H5端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="760" y="140" width="510" height="130" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-14" value="Native端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="760" y="290" width="510" height="130" as="geometry" />
+          <mxGeometry x="760" y="280" width="510" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
