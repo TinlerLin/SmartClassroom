@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T12:19:10.670Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="vyDLyWa2Hy1HsYBlbu5X" version="14.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T12:43:30.196Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="r67_T_r2KxI3KLRsFKEf" version="14.6.2" type="github">
   <diagram id="dVWULPc1-X__MVmkzuiI" name="Page-1">
     <mxGraphModel dx="1422" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="votonq6sB_gIMiyyRcs6-5" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="60" y="50" width="1260" height="390" as="geometry" />
+          <mxGeometry x="60" y="50" width="1260" height="430" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-3" value="PC老师端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="120" y="90" width="570" height="340" as="geometry" />
+          <mxGeometry x="120" y="90" width="570" height="380" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-4" value="PAD学生端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="730" y="90" width="570" height="340" as="geometry" />
+          <mxGeometry x="730" y="90" width="570" height="380" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-6" value="Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="60" y="520" width="1260" height="230" as="geometry" />
@@ -22,20 +22,92 @@
         <mxCell id="votonq6sB_gIMiyyRcs6-8" value="消息通信(WebSocket)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="730" y="560" width="570" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="votonq6sB_gIMiyyRcs6-11" value="PC端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="votonq6sB_gIMiyyRcs6-11" value="Web端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="150" y="140" width="510" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="votonq6sB_gIMiyyRcs6-12" value="Web端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="150" y="280" width="510" height="140" as="geometry" />
+        <mxCell id="votonq6sB_gIMiyyRcs6-12" value="PC端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="510" height="180" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-13" value="H5端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="760" y="140" width="510" height="130" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-14" value="Native端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="760" y="280" width="510" height="140" as="geometry" />
+          <mxGeometry x="760" y="280" width="510" height="180" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-16" value="K12题型颗粒播放器" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=18;align=left;" vertex="1" parent="1">
           <mxGeometry x="1400" y="340" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-17" value="课堂练习" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="840" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-18" value="生生互评" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="930" y="225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-19" value="人气投票" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-20" value="随机点名" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-21" value="接收资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-22" value="送花" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="840" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-23" value="分组教学" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="840" y="225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-24" value="学科工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="930" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-26" value="接收课件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-27" value="发送习题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-28" value="截图发题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-29" value="课堂总结" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-30" value="生生互评" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-31" value="人气投票" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-32" value="随机点名" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-33" value="送花" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-34" value="送花" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-35" value="分组教学" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-37" value="课堂统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-38" value="能力层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="770" y="395" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-40" value="业务层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="770" y="320" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-41" value="题型颗粒组件所需的原生能力集，如：手写、拍照、录音等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="840" y="370" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-44" value="答案上传" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-45" value="图片合成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="370" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
