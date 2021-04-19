@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T12:55:52.664Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="nHi-k4ME-exQZTnYiIzz" version="14.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T12:56:35.030Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="8MpwdONT5wec67boGkiN" version="14.6.2" type="github">
   <diagram id="dVWULPc1-X__MVmkzuiI" name="Page-1">
     <mxGraphModel dx="1422" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,6 +138,9 @@
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-58" value="学科工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
           <mxGeometry x="540" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="votonq6sB_gIMiyyRcs6-59" value="随机点名" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="225" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
