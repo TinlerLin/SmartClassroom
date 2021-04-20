@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T01:04:04.474Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="HOjKxw7xj-WAysYEIE0e" version="14.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-20T01:06:14.112Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="PCTFUA43E3-FiVablQo9" version="14.6.2" type="github" pages="2">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="866" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="450" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Al2z9ClqBcWulVMLrW0T-6" value="随机点名" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="Al2z9ClqBcWulVMLrW0T-1">
-          <mxGeometry x="709.75" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Al2z9ClqBcWulVMLrW0T-7" value="学科工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="Al2z9ClqBcWulVMLrW0T-1">
           <mxGeometry x="319.75" y="490" width="120" height="60" as="geometry" />
@@ -26,10 +26,10 @@
           <mxGeometry x="449.75" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Al2z9ClqBcWulVMLrW0T-9" value="抢答" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="Al2z9ClqBcWulVMLrW0T-1">
-          <mxGeometry x="839.75" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Al2z9ClqBcWulVMLrW0T-10" value="送花" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="Al2z9ClqBcWulVMLrW0T-1">
-          <mxGeometry x="969.75" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1100" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pwbhA8vGE5dWIsQhsapH-0" value="课件习题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="Al2z9ClqBcWulVMLrW0T-1">
           <mxGeometry x="189.5" y="340" width="120" height="60" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="839.75" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Npib2aF4o1GfoydxgvZe-1" value="下发资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="Al2z9ClqBcWulVMLrW0T-1">
-          <mxGeometry x="1100.25" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1230.5" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Npib2aF4o1GfoydxgvZe-2" value="学情统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="Al2z9ClqBcWulVMLrW0T-1">
           <mxGeometry x="449.75" y="410" width="120" height="60" as="geometry" />
@@ -106,13 +106,16 @@
           <mxGeometry x="449.75" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Npib2aF4o1GfoydxgvZe-12" value="推屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="Al2z9ClqBcWulVMLrW0T-1">
+          <mxGeometry x="710" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nBkIe1I3A0UdcWKPP7lj-0" value="同屏对比" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="Al2z9ClqBcWulVMLrW0T-1">
           <mxGeometry x="579.75" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="dVWULPc1-X__MVmkzuiI" name="组件构成">
-    <mxGraphModel dx="1422" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="866" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
