@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-30T09:05:52.524Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="idh7gaOdqn6NH0xVtuWJ" version="14.6.6" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2021-04-30T09:09:48.547Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="sDIIZCb21TTnyAWB2PzR" version="14.6.6" type="github" pages="15">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,47 +128,41 @@
         <mxCell id="ZUii6nOR15KB4KzM-T3I-3" value="业务处理层" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;align=left;verticalAlign=top;fontSize=21;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
           <mxGeometry x="44" y="-890" width="360" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ZUii6nOR15KB4KzM-T3I-5" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;align=left;verticalAlign=top;fontSize=21;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
+        <mxCell id="ZUii6nOR15KB4KzM-T3I-5" value="数据分析与统计" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;align=left;verticalAlign=top;fontSize=21;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
           <mxGeometry x="44" y="-730" width="740" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZnpYzv9HNl4nUVsNxoEE-0" value="基础设施层" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;align=left;verticalAlign=top;fontSize=21;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
           <mxGeometry x="44" y="-530" width="740" height="90" as="geometry" />
         </mxCell>
         <mxCell id="33UOj_gDm5JZuNkpZCdx-0" value="连接管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
-          <mxGeometry x="460" y="-820" width="90" height="50" as="geometry" />
+          <mxGeometry x="490" y="-820" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="33UOj_gDm5JZuNkpZCdx-1" value="消息管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
-          <mxGeometry x="569" y="-820" width="90" height="50" as="geometry" />
+          <mxGeometry x="630" y="-820" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="33UOj_gDm5JZuNkpZCdx-3" value="随堂练习" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
-          <mxGeometry x="110" y="-1020" width="90" height="50" as="geometry" />
+          <mxGeometry x="114" y="-990" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="33UOj_gDm5JZuNkpZCdx-5" value="分组教学" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
-          <mxGeometry x="230" y="-1020" width="90" height="50" as="geometry" />
+          <mxGeometry x="234" y="-990" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="33UOj_gDm5JZuNkpZCdx-6" value="随机点名" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
-          <mxGeometry x="344" y="-1020" width="90" height="50" as="geometry" />
+          <mxGeometry x="348" y="-990" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="33UOj_gDm5JZuNkpZCdx-7" value="抢答" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
-          <mxGeometry x="460" y="-1020" width="90" height="50" as="geometry" />
+          <mxGeometry x="464" y="-990" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="33UOj_gDm5JZuNkpZCdx-8" value="送花/表扬" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
-          <mxGeometry x="569" y="-1020" width="90" height="50" as="geometry" />
+          <mxGeometry x="573" y="-990" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="33UOj_gDm5JZuNkpZCdx-9" value="下发资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
-          <mxGeometry x="680" y="-1020" width="90" height="50" as="geometry" />
+          <mxGeometry x="684" y="-990" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="33UOj_gDm5JZuNkpZCdx-10" value="班级管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
-          <mxGeometry x="110" y="-1080" width="90" height="50" as="geometry" />
+          <mxGeometry x="114" y="-1050" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="33UOj_gDm5JZuNkpZCdx-11" value="课堂管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
-          <mxGeometry x="230" y="-1080" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="33UOj_gDm5JZuNkpZCdx-12" value="课堂统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
-          <mxGeometry x="110" y="-960" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="33UOj_gDm5JZuNkpZCdx-13" value="学情分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
-          <mxGeometry x="230" y="-960" width="90" height="50" as="geometry" />
+          <mxGeometry x="234" y="-1050" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ke4eRSRhaqXdojUqGzHU-0" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
           <mxGeometry x="160" y="-500" width="90" height="50" as="geometry" />
@@ -189,7 +183,19 @@
           <mxGeometry x="520" y="-600" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ke4eRSRhaqXdojUqGzHU-7" value="用户登录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
-          <mxGeometry x="344" y="-1080" width="90" height="50" as="geometry" />
+          <mxGeometry x="348" y="-1050" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ke4eRSRhaqXdojUqGzHU-8" value="课堂活动&lt;br&gt;状态管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
+          <mxGeometry x="109" y="-820" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ke4eRSRhaqXdojUqGzHU-9" value="课堂活动&lt;br&gt;数据处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
+          <mxGeometry x="249" y="-820" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ke4eRSRhaqXdojUqGzHU-11" value="课堂统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
+          <mxGeometry x="220" y="-700" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ke4eRSRhaqXdojUqGzHU-12" value="学情分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
+          <mxGeometry x="424" y="-700" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
