@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-30T08:33:00.952Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="rwhh1fIjHP45Cy7_lL05" version="14.6.6" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2021-04-30T08:33:22.718Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="8CmPTeLAUKjLiNxcu_dQ" version="14.6.6" type="github" pages="15">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="Al2z9ClqBcWulVMLrW0T-10" value="送花" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
           <mxGeometry x="1100" y="121" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pwbhA8vGE5dWIsQhsapH-0" value="发送课件习题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
+        <mxCell id="pwbhA8vGE5dWIsQhsapH-0" value="课件中习题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
           <mxGeometry x="189.5" y="281" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pwbhA8vGE5dWIsQhsapH-1" value="截图发题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
