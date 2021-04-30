@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-30T08:45:40.098Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="DYcCoxJhwiJOwzUQNeIF" version="14.6.6" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2021-04-30T08:46:05.727Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="0CX1PDLddBawLZsOTDtB" version="14.6.6" type="github" pages="15">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,7 +137,7 @@
         <mxCell id="33UOj_gDm5JZuNkpZCdx-0" value="连接管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
           <mxGeometry x="470" y="310" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="33UOj_gDm5JZuNkpZCdx-1" value="消息分发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
+        <mxCell id="33UOj_gDm5JZuNkpZCdx-1" value="消息管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
           <mxGeometry x="579" y="310" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="33UOj_gDm5JZuNkpZCdx-2" value="数据加密" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
