@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-30T08:03:44.975Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="xzzAa7vg0KKI1ZHCb5K-" version="14.6.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-04-30T08:08:49.438Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Vo4g6TMPDt1yy_VGMQm5" version="14.6.6" type="github" pages="15">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,20 +114,84 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="7OPa_1LoBj2C91qyEaii" name="逻辑组件构成">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="QfaEs2_1KEUAuGlLSLdg-0" />
+        <mxCell id="QfaEs2_1KEUAuGlLSLdg-1" parent="QfaEs2_1KEUAuGlLSLdg-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2_zi1aDqrx1x08zvzbXu" name="物理组件构成">
+    <mxGraphModel dx="1422" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="apTTdXJnjvnoFx_-e-7i-0" />
+        <mxCell id="apTTdXJnjvnoFx_-e-7i-1" parent="apTTdXJnjvnoFx_-e-7i-0" />
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-0" value="5G智慧教室" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="10" y="-1120" width="810" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-1" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="30" y="-1070" width="780" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-2" value="PAD学生端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="450" y="-1030" width="340" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-3" value="PC老师端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="90" y="-1030" width="340" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-4" value="Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="30" y="-850" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-5" value="复用组件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="10" y="-700" width="810" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-6" value="题型颗粒&lt;br&gt;播放器组件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="120" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-7" value="题型颗粒&lt;br&gt;习题入库服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="270" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-8" value="题型颗粒&lt;br&gt;习题批改SDK" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="420" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-9" value="NDR" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="120" y="-570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-10" value="CS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="270" y="-570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-11" value="UC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="420" y="-570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-12" value="AI能力" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="570" y="-570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-13" value="Web组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="120" y="-970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-14" value="PC组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="280" y="-970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-15" value="H5组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="480" y="-970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-16" value="Native组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="640" y="-970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-17" value="消息通信组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="560" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9C7BRgnldxr7GfUD9Fyh-18" value="业务处理组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="apTTdXJnjvnoFx_-e-7i-1">
+          <mxGeometry x="200" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="dVWULPc1-X__MVmkzuiI" name="组件构成">
     <mxGraphModel dx="1422" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-80" value="5G智慧教室" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-1120" width="810" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-81" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-1070" width="780" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-135" value="PAD学生端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-1030" width="340" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-56" value="5G智慧教室" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="10" y="-345" width="1320" height="720" as="geometry" />
         </mxCell>
@@ -268,54 +332,6 @@
         </mxCell>
         <mxCell id="cqIg3D03lSQ96cCOZXNr-2" value="下发资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="1" vertex="1">
           <mxGeometry x="150" y="-95" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-82" value="PC老师端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-1030" width="340" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-84" value="Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-850" width="780" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-115" value="复用组件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-700" width="810" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-116" value="题型颗粒&lt;br&gt;播放器组件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-117" value="题型颗粒&lt;br&gt;习题入库服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-118" value="题型颗粒&lt;br&gt;习题批改SDK" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-119" value="NDR" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-120" value="CS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-121" value="UC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-122" value="AI能力" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="570" y="-570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-127" value="Web组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-970" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-128" value="PC组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-970" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-130" value="H5组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-970" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-131" value="Native组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-970" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-133" value="消息通信组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-820" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NpmOIUauCgA9Sebx3fcO-134" value="业务处理组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
