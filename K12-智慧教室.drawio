@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-30T08:01:53.887Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="EO2EwWvnrQ7nvOOwWWQ0" version="14.6.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-04-30T08:02:28.084Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="GBggzVVb_U7NezzgKnHl" version="14.6.6" type="github" pages="13">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,16 +246,16 @@
           <mxGeometry x="420" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-52" value="NDR" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="1" vertex="1">
-          <mxGeometry x="200" y="505" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-53" value="CS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="1" vertex="1">
-          <mxGeometry x="420" y="505" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-54" value="UC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="1" vertex="1">
-          <mxGeometry x="640" y="505" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-55" value="AI能力" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="1" vertex="1">
-          <mxGeometry x="860" y="505" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="votonq6sB_gIMiyyRcs6-57" value="口头出题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="1" vertex="1">
           <mxGeometry x="330" y="-185" width="80" height="40" as="geometry" />
