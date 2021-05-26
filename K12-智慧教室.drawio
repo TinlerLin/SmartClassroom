@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T06:10:42.281Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="bPjIjAjdfhXIDcVNHKS9" version="14.6.10" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-05-26T06:11:07.878Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="1GpZzVNAyYQuwDS47x13" version="14.6.10" type="github" pages="16">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -273,7 +273,7 @@
         <mxCell id="DTpqq9npcWKooh91i175-1" value="课堂管理页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
           <mxGeometry x="310" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DTpqq9npcWKooh91i175-2" value="课堂详情页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+        <mxCell id="DTpqq9npcWKooh91i175-2" value="课堂活动页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
           <mxGeometry x="490" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-6" value="页面级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
