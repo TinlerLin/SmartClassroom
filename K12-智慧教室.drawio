@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T09:23:20.103Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="0Wnxje-YwhW5Ya8cxa8b" version="14.6.10" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-05-26T09:24:46.527Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="xfk1RrxOrBY74mG9vCGh" version="14.6.10" type="github" pages="17">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -704,10 +704,10 @@
         <mxCell id="wT86TTHe9nsY3zhldpvV-10" value="闯关" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="549" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-11" value="养成系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-11" value="养成系统&lt;br&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 11px&quot;&gt;增加用户粘性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-12" value="道具系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-12" value="道具系统&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#ff0000&quot;&gt;增加游戏趣味性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="550" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wT86TTHe9nsY3zhldpvV-14" value="排行榜" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
