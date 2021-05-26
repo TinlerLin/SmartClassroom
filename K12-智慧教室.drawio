@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T07:38:17.799Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="BgdFfIfeQtkYTbKmLRU0" version="14.6.10" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-05-26T07:38:35.263Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ssBlvxvYqbZ6c3Ck5u3X" version="14.6.10" type="github" pages="16">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -376,10 +376,10 @@
           <mxGeometry x="156" y="750" width="344" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-51" value="OneSDK&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;(内置HTTP请求模块)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
-          <mxGeometry x="300" y="680" width="130" height="60" as="geometry" />
+          <mxGeometry x="336" y="680" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-52" value="101 JSBridge&lt;br&gt;（Native通信）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
-          <mxGeometry x="450" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="516" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-53" value="访问权限控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
           <mxGeometry x="516" y="170" width="120" height="60" as="geometry" />
