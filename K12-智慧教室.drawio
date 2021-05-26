@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T09:21:01.603Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="FXYG3r24O5ARTKgevcHR" version="14.6.10" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-05-26T09:21:50.984Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="A6-XbyZAwbpNfSxFg2A8" version="14.6.10" type="github" pages="17">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -680,8 +680,8 @@
         <mxCell id="wT86TTHe9nsY3zhldpvV-2" value="口算题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-3" value="游戏层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
-          <mxGeometry x="30" y="100" width="60" height="20" as="geometry" />
+        <mxCell id="wT86TTHe9nsY3zhldpvV-3" value="游戏层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="30" y="100" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wT86TTHe9nsY3zhldpvV-4" value="冰壶游戏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="300" y="80" width="120" height="60" as="geometry" />
@@ -713,14 +713,14 @@
         <mxCell id="wT86TTHe9nsY3zhldpvV-14" value="排行榜" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-15" value="活动层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
-          <mxGeometry x="30" y="310" width="60" height="20" as="geometry" />
+        <mxCell id="wT86TTHe9nsY3zhldpvV-15" value="活动层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="30" y="310" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-16" value="系统层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
-          <mxGeometry x="30" y="430" width="60" height="20" as="geometry" />
+        <mxCell id="wT86TTHe9nsY3zhldpvV-16" value="系统层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="30" y="430" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-17" value="技术支撑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
-          <mxGeometry x="20" y="690" width="80" height="20" as="geometry" />
+        <mxCell id="wT86TTHe9nsY3zhldpvV-17" value="技术支撑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="20" y="690" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wT86TTHe9nsY3zhldpvV-18" value="区块链技术&lt;br&gt;NFT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="160" y="670" width="120" height="60" as="geometry" />
@@ -740,8 +740,8 @@
         <mxCell id="wT86TTHe9nsY3zhldpvV-27" value="奖惩系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=2" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="720" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-28" value="资源层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
-          <mxGeometry x="30" y="565" width="60" height="20" as="geometry" />
+        <mxCell id="wT86TTHe9nsY3zhldpvV-28" value="资源层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="30" y="565" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wT86TTHe9nsY3zhldpvV-29" value="游戏创作资源库支持&lt;br&gt;学习目标、题库等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="160" y="545" width="370" height="60" as="geometry" />
