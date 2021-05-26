@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T07:52:50.331Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="7-YL181brYcWOQAoDDGg" version="14.6.10" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-05-26T07:58:05.823Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="3guvp9jPZelYdFtuogaE" version="14.6.10" type="github" pages="16">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -372,7 +372,7 @@
         <mxCell id="DTpqq9npcWKooh91i175-48" value="消息分发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
           <mxGeometry x="694" y="430" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DTpqq9npcWKooh91i175-49" value="开发脚手架&lt;br&gt;（create-react-app）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+        <mxCell id="DTpqq9npcWKooh91i175-49" value="开发脚手架&lt;br&gt;（create-react-app、React + TypeScript）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
           <mxGeometry x="160" y="770" width="344" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-51" value="OneSDK&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;(内置HTTP请求模块)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
