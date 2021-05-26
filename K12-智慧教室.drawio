@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T07:05:44.831Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="HHM-rWgJWUfpfkr_hhvk" version="14.6.10" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-05-26T07:08:00.228Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="EgV7j78nDXRZOCfn_M05" version="14.6.10" type="github" pages="16">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -380,6 +380,9 @@
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-52" value="101 JSBridge" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
           <mxGeometry x="430" y="1025" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DTpqq9npcWKooh91i175-53" value="访问权限控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="490" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
