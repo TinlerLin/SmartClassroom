@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T05:57:39.588Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="x-h5Sqkj3WaBYT4qYnUt" version="14.6.10" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-05-26T06:08:39.850Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Q9e0cRHZcCIIH-5srHis" version="14.6.10" type="github" pages="16">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -267,6 +267,45 @@
       <root>
         <mxCell id="vJPe_vNQj6c6dDPJMC6I-0" />
         <mxCell id="vJPe_vNQj6c6dDPJMC6I-1" parent="vJPe_vNQj6c6dDPJMC6I-0" />
+        <mxCell id="DTpqq9npcWKooh91i175-0" value="登录页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DTpqq9npcWKooh91i175-1" value="课堂管理页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="500" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DTpqq9npcWKooh91i175-2" value="课堂详情页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="680" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DTpqq9npcWKooh91i175-6" value="页面级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="70" y="285" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DTpqq9npcWKooh91i175-7" value="逻辑层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="10" y="558" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DTpqq9npcWKooh91i175-8" value="数据层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="10" y="718" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DTpqq9npcWKooh91i175-9" value="框架层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="10" y="878" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DTpqq9npcWKooh91i175-11" value="用户信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="130" y="705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DTpqq9npcWKooh91i175-12" value="课堂活动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="130" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DTpqq9npcWKooh91i175-13" value="展示层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;horizontal=1;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="10" y="295" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DTpqq9npcWKooh91i175-15" value="消息处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="310" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DTpqq9npcWKooh91i175-16" value="课堂活动数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="310" y="705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DTpqq9npcWKooh91i175-19" value="组件级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="70" y="380" width="20" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
