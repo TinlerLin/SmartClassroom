@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T06:38:03.638Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="1nnURj-GogzHZdxotA5M" version="14.6.9" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2021-05-26T05:57:39.588Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="x-h5Sqkj3WaBYT4qYnUt" version="14.6.10" type="github" pages="16">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
-    <mxGraphModel dx="1422" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Al2z9ClqBcWulVMLrW0T-0" />
         <mxCell id="Al2z9ClqBcWulVMLrW0T-1" parent="Al2z9ClqBcWulVMLrW0T-0" />
@@ -115,7 +115,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7OPa_1LoBj2C91qyEaii" name="逻辑组件构成">
-    <mxGraphModel dx="1422" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QfaEs2_1KEUAuGlLSLdg-0" />
         <mxCell id="QfaEs2_1KEUAuGlLSLdg-1" parent="QfaEs2_1KEUAuGlLSLdg-0" />
@@ -194,14 +194,14 @@
         <mxCell id="ke4eRSRhaqXdojUqGzHU-12" value="学情分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" parent="QfaEs2_1KEUAuGlLSLdg-1" vertex="1">
           <mxGeometry x="424" y="-700" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QqTzOOu1t0QrZ4wXSqH8-0" value="题型颗粒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" vertex="1" parent="QfaEs2_1KEUAuGlLSLdg-1">
+        <mxCell id="QqTzOOu1t0QrZ4wXSqH8-0" value="题型颗粒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;align=center;" parent="QfaEs2_1KEUAuGlLSLdg-1" vertex="1">
           <mxGeometry x="220" y="-600" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="2_zi1aDqrx1x08zvzbXu" name="物理组件构成">
-    <mxGraphModel dx="1422" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="apTTdXJnjvnoFx_-e-7i-0" />
         <mxCell id="apTTdXJnjvnoFx_-e-7i-1" parent="apTTdXJnjvnoFx_-e-7i-0" />
@@ -259,6 +259,14 @@
         <mxCell id="9C7BRgnldxr7GfUD9Fyh-18" value="业务处理组件" style="rounded=1;whiteSpace=wrap;html=1;" parent="apTTdXJnjvnoFx_-e-7i-1" vertex="1">
           <mxGeometry x="199" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_RtV84z0H-kQ9U_ldpE2" name="PAD学生端 - H5组件">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="vJPe_vNQj6c6dDPJMC6I-0" />
+        <mxCell id="vJPe_vNQj6c6dDPJMC6I-1" parent="vJPe_vNQj6c6dDPJMC6I-0" />
       </root>
     </mxGraphModel>
   </diagram>
