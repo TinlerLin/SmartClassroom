@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T08:00:07.009Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="O62HEIEnEr6qTnILKp7D" version="14.6.10" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-05-26T08:03:07.719Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Kyb49G8oSyOAvCLdyIDP" version="14.6.10" type="github" pages="16">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -298,7 +298,7 @@
           <mxGeometry x="160" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-13" value="表示层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;horizontal=1;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
-          <mxGeometry x="24" y="144.5" width="30" height="10" as="geometry" />
+          <mxGeometry x="29" y="144.5" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-15" value="各类课堂活动&lt;br&gt;逻辑处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
           <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
@@ -416,6 +416,21 @@
         </mxCell>
         <mxCell id="KPBf2KDOLXM9kLxl_QKg-0" value="lottie-web" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
           <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPBf2KDOLXM9kLxl_QKg-1" value="技术货架依赖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="18.5" y="900" width="51" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KPBf2KDOLXM9kLxl_QKg-2" value="题型颗粒播放器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="158" y="875" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPBf2KDOLXM9kLxl_QKg-3" value="UC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry x="338" y="875" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPBf2KDOLXM9kLxl_QKg-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=24;" edge="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="69.5" y="849" as="sourcePoint" />
+            <mxPoint x="679.5" y="849" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
