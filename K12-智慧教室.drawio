@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T09:11:47.297Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="tS2FORldduPCYMokcvZl" version="14.6.10" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-05-26T09:12:40.060Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="e4BDFdX4QLszif5lR6RJ" version="14.6.10" type="github" pages="17">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -720,10 +720,10 @@
           <mxGeometry x="30" y="430" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wT86TTHe9nsY3zhldpvV-17" value="技术支撑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
-          <mxGeometry x="20" y="545" width="80" height="20" as="geometry" />
+          <mxGeometry x="20" y="590" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wT86TTHe9nsY3zhldpvV-18" value="区块链NFT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
-          <mxGeometry x="160" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wT86TTHe9nsY3zhldpvV-19" value="交易系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=2" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="720" y="410" width="120" height="60" as="geometry" />
@@ -736,6 +736,9 @@
         </mxCell>
         <mxCell id="wT86TTHe9nsY3zhldpvV-26" value="社交系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=2" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="850" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wT86TTHe9nsY3zhldpvV-27" value="奖励系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=2" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="720" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
