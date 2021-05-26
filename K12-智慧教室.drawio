@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T07:33:30.372Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="LoRcrbyKFWlcuEsDgsV1" version="14.6.10" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-05-26T07:34:19.397Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="GPh4fkEpkZs_7fwIs-sR" version="14.6.10" type="github" pages="16">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -373,25 +373,25 @@
           <mxGeometry x="696" y="450" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-49" value="开发脚手架&lt;br&gt;（create-react-app）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
-          <mxGeometry x="156" y="750" width="170" height="60" as="geometry" />
+          <mxGeometry x="156" y="750" width="274" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-51" value="OneSDK&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;(内置HTTP请求模块)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
-          <mxGeometry x="346" y="680" width="130" height="60" as="geometry" />
+          <mxGeometry x="300" y="680" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-52" value="101 JSBridge&lt;br&gt;（Native通信）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
-          <mxGeometry x="496" y="680" width="170" height="60" as="geometry" />
+          <mxGeometry x="450" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-53" value="访问权限控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
           <mxGeometry x="516" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-54" value="WebSocket" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
-          <mxGeometry x="156" y="680" width="170" height="60" as="geometry" />
+          <mxGeometry x="156" y="680" width="124" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-57" value="通信支持" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
           <mxGeometry x="86" y="700" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-61" value="单元测试" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
-          <mxGeometry x="346" y="750" width="130" height="60" as="geometry" />
+          <mxGeometry x="450" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTpqq9npcWKooh91i175-62" value="开发支持" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="vJPe_vNQj6c6dDPJMC6I-1">
           <mxGeometry x="86" y="765" width="40" height="30" as="geometry" />
