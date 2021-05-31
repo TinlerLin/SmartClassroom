@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T09:46:43.968Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="pqwCNqNoRkD9MpyAq5ei" version="14.7.1" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-05-31T09:47:25.985Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="1b80485ev6_asOoUdKLu" version="14.7.1" type="github" pages="17">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -736,7 +736,7 @@
         <mxCell id="wT86TTHe9nsY3zhldpvV-18" value="区块链技术&lt;br&gt;NFT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="161" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-19" value="商城&lt;br&gt;&lt;font style=&quot;font-size: 12px ; font-style: normal&quot; color=&quot;#ff3333&quot;&gt;装备、道具&lt;br&gt;金币兑换&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=2" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-19" value="商城&lt;br&gt;&lt;font style=&quot;font-size: 12px ; font-style: normal ; line-height: 120%&quot; color=&quot;#ff3333&quot;&gt;装备、道具&lt;br&gt;金币兑换&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=2" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="720" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wT86TTHe9nsY3zhldpvV-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=18;rotation=-90;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
