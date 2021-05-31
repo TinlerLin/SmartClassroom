@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T11:26:05.866Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="AI0W2yOeG-q-6pEBUB_a" version="14.7.1" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-05-31T11:26:33.812Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="PRUrs3nZICpg2vVEZNg8" version="14.7.1" type="github" pages="17">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -762,7 +762,7 @@
         <mxCell id="wT86TTHe9nsY3zhldpvV-28" value="资源层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="30" y="770" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-29" value="基于游戏模块再创作的资源库支持&lt;br&gt;学习目标、知识点、题库等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-29" value="基于游戏模块再创作的资源库支持&lt;br&gt;学习目标、题库、教学颗粒等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="160" y="750" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wT86TTHe9nsY3zhldpvV-30" value="AI技术" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
