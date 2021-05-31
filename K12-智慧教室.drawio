@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T09:38:17.643Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="EMPdcu9_rTE51kD5fmmU" version="14.7.1" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-05-31T09:44:57.368Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="REBLkw0301-HOwFa9nBo" version="14.7.1" type="github" pages="17">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -809,6 +809,9 @@
         </mxCell>
         <mxCell id="vuFcKktBRcq0SokZ_wux-17" value="故事剧情" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="590" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vuFcKktBRcq0SokZ_wux-18" value="怪物系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="760" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
