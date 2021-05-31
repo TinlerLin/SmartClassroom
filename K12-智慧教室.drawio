@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T11:29:49.402Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="C50D4slIEDU9YyVNejUo" version="14.7.1" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-05-31T11:31:43.901Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="0B4xs-U22coRfXgBbJ2h" version="14.7.1" type="github" pages="17">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -791,10 +791,18 @@
         <mxCell id="vuFcKktBRcq0SokZ_wux-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wT86TTHe9nsY3zhldpvV-1" source="vuFcKktBRcq0SokZ_wux-0" target="vuFcKktBRcq0SokZ_wux-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vuFcKktBRcq0SokZ_wux-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wT86TTHe9nsY3zhldpvV-1" source="vuFcKktBRcq0SokZ_wux-0" target="vuFcKktBRcq0SokZ_wux-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="600" />
+              <mxPoint x="88" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vuFcKktBRcq0SokZ_wux-0" value="NPC&lt;br&gt;(人物角色)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vuFcKktBRcq0SokZ_wux-1" value="技能系统&lt;br&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 12px&quot;&gt;技能系、升级&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="vuFcKktBRcq0SokZ_wux-1" value="游戏技能系统&lt;br&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 12px&quot;&gt;技能系、升级&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="160" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vuFcKktBRcq0SokZ_wux-2" value="装备系统&lt;br&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 12px&quot;&gt;升级、合成、购买&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
@@ -835,6 +843,9 @@
         </mxCell>
         <mxCell id="vuFcKktBRcq0SokZ_wux-23" value="游戏地图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="890" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vuFcKktBRcq0SokZ_wux-25" value="知识技能系统&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;已掌握知识&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="27.5" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
