@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T09:18:32.093Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="x9jDvP-mQJwW0yESwqsO" version="14.7.1" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-05-31T09:26:17.398Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="S8DaW_xo6tqX-hFVRbze" version="14.7.1" type="github" pages="17">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -804,8 +804,11 @@
         <mxCell id="vuFcKktBRcq0SokZ_wux-13" value="游戏引擎" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="750" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vuFcKktBRcq0SokZ_wux-14" value="故事剧情" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
-          <mxGeometry x="720" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="vuFcKktBRcq0SokZ_wux-14" value="战斗系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="590" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vuFcKktBRcq0SokZ_wux-17" value="故事剧情" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="590" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
