@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T09:36:52.270Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="PDRHa11s_aSkrzp2EZlL" version="14.7.1" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-05-31T09:37:24.458Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="kctnxuoJwNJDUiOYqSNh" version="14.7.1" type="github" pages="17">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -786,7 +786,7 @@
         <mxCell id="vuFcKktBRcq0SokZ_wux-0" value="NPC&lt;br&gt;(人物角色)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vuFcKktBRcq0SokZ_wux-1" value="技能系统&lt;br&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 12px&quot;&gt;升级&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="vuFcKktBRcq0SokZ_wux-1" value="技能系统&lt;br&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 12px&quot;&gt;技能系、升级&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="160" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vuFcKktBRcq0SokZ_wux-2" value="装备系统&lt;br&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 12px&quot;&gt;升级、合成、购买&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
@@ -798,7 +798,7 @@
         <mxCell id="vuFcKktBRcq0SokZ_wux-3" value="宠物系统&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(255 , 0 , 0) ; font-size: 12px&quot;&gt;图鉴&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vuFcKktBRcq0SokZ_wux-4" value="技能系统&lt;br&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 12px&quot;&gt;升级&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="vuFcKktBRcq0SokZ_wux-4" value="技能系统&lt;br&gt;&lt;span style=&quot;color: rgb(255 , 0 , 0) ; font-size: 12px&quot;&gt;技能系、升级&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="440" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vuFcKktBRcq0SokZ_wux-13" value="游戏引擎" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
