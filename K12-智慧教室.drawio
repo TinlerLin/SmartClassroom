@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T11:42:53.161Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="7MawMjW-rygbYmouQlIa" version="14.6.10" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-05-31T09:17:27.146Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="2L3UatY2fXLE32LL4n1I" version="14.7.1" type="github" pages="17">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -673,93 +673,136 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P7R8nuCzQeAs_sVW_V4X" name="游戏平台">
-    <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wT86TTHe9nsY3zhldpvV-0" />
         <mxCell id="wT86TTHe9nsY3zhldpvV-1" parent="wT86TTHe9nsY3zhldpvV-0" />
-        <mxCell id="wT86TTHe9nsY3zhldpvV-2" value="口算题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-2" value="口算题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-3" value="游戏层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-3" value="游戏层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="30" y="100" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-4" value="冰壶游戏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-4" value="冰壶游戏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="300" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-5" value="奇妙的汉字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-5" value="奇妙的汉字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-6" value="成语连连看" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-6" value="成语连连看" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="580" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-7" value="... ..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-7" value="... ..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="720" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-8" value="竞赛" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-8" value="竞赛" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="159" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-9" value="PK&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;双人、组队&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-9" value="PK&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;双人、组队&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="353" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-10" value="闯关" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-10" value="闯关" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="549" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-11" value="养成系统&lt;br&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 11px&quot;&gt;增加用户粘性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="vuFcKktBRcq0SokZ_wux-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wT86TTHe9nsY3zhldpvV-1" source="wT86TTHe9nsY3zhldpvV-11" target="vuFcKktBRcq0SokZ_wux-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vuFcKktBRcq0SokZ_wux-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wT86TTHe9nsY3zhldpvV-1" source="wT86TTHe9nsY3zhldpvV-11" target="vuFcKktBRcq0SokZ_wux-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="500" />
+              <mxPoint x="500" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wT86TTHe9nsY3zhldpvV-11" value="养成系统&lt;br&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 11px&quot;&gt;增加用户粘性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-12" value="道具系统&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#ff0000&quot;&gt;增加游戏趣味性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-12" value="道具系统&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#ff0000&quot;&gt;增加游戏趣味性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="550" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-14" value="排行榜" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-14" value="排行榜" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-15" value="活动层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-15" value="活动层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="30" y="310" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-16" value="系统层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-16" value="系统层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="30" y="430" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-17" value="技术支撑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
-          <mxGeometry x="20" y="690" width="90" height="20" as="geometry" />
+        <mxCell id="wT86TTHe9nsY3zhldpvV-17" value="技术支撑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
+          <mxGeometry x="21" y="860" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-18" value="区块链技术&lt;br&gt;NFT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
-          <mxGeometry x="160" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="wT86TTHe9nsY3zhldpvV-18" value="区块链技术&lt;br&gt;NFT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
+          <mxGeometry x="161" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-19" value="交易系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=2" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-19" value="交易系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=2" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="720" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=18;rotation=-90;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=18;rotation=-90;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="490" y="-110" width="30" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-23" value="&lt;font style=&quot;font-size: 16px&quot;&gt;不同程度支持UGC/PGC&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-23" value="&lt;font style=&quot;font-size: 16px&quot;&gt;不同程度支持UGC/PGC&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="395" y="180" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-26" value="社交系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=2" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-26" value="社交系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=2" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="850" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-27" value="奖惩系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=2" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-27" value="奖惩系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=2" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="980" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-28" value="资源层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
-          <mxGeometry x="30" y="565" width="70" height="20" as="geometry" />
+        <mxCell id="wT86TTHe9nsY3zhldpvV-28" value="资源层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
+          <mxGeometry x="30" y="770" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-29" value="基于游戏模块再创作的资源库支持&lt;br&gt;学习目标、题库等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
-          <mxGeometry x="160" y="545" width="310" height="60" as="geometry" />
+        <mxCell id="wT86TTHe9nsY3zhldpvV-29" value="基于游戏模块再创作的资源库支持&lt;br&gt;学习目标、题库等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
+          <mxGeometry x="160" y="750" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-30" value="AI技术" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
-          <mxGeometry x="353" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="wT86TTHe9nsY3zhldpvV-30" value="AI技术" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
+          <mxGeometry x="354" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-32" value="练习场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-32" value="练习场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-33" value="3D技术" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
-          <mxGeometry x="549" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="wT86TTHe9nsY3zhldpvV-33" value="3D技术" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
+          <mxGeometry x="550" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-34" value="&lt;font style=&quot;font-size: 11px&quot;&gt;通常是小游戏&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#FF3333;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-34" value="&lt;font style=&quot;font-size: 11px&quot;&gt;通常是小游戏&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#FF3333;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="27.5" y="130" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wT86TTHe9nsY3zhldpvV-37" value="&lt;span&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;定义一套游戏接入规范&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;可引入外部游戏&lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontSize=21;fontColor=#FF3333;align=left;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="wT86TTHe9nsY3zhldpvV-37" value="&lt;span&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;定义一套游戏接入规范&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;可引入外部游戏&lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontSize=21;fontColor=#FF3333;align=left;" parent="wT86TTHe9nsY3zhldpvV-1" vertex="1">
           <mxGeometry x="1000" y="80" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vuFcKktBRcq0SokZ_wux-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wT86TTHe9nsY3zhldpvV-1" source="vuFcKktBRcq0SokZ_wux-0" target="vuFcKktBRcq0SokZ_wux-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="600" />
+              <mxPoint x="354" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuFcKktBRcq0SokZ_wux-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wT86TTHe9nsY3zhldpvV-1" source="vuFcKktBRcq0SokZ_wux-0" target="vuFcKktBRcq0SokZ_wux-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vuFcKktBRcq0SokZ_wux-0" value="NPC&lt;br&gt;(人物角色)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vuFcKktBRcq0SokZ_wux-1" value="技能系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="160" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vuFcKktBRcq0SokZ_wux-2" value="装备系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="295" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vuFcKktBRcq0SokZ_wux-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wT86TTHe9nsY3zhldpvV-1" source="vuFcKktBRcq0SokZ_wux-3" target="vuFcKktBRcq0SokZ_wux-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vuFcKktBRcq0SokZ_wux-3" value="宠物系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vuFcKktBRcq0SokZ_wux-4" value="技能系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="440" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vuFcKktBRcq0SokZ_wux-13" value="游戏引擎" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+          <mxGeometry x="750" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
