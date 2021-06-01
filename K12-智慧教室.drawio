@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T12:55:28.547Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="r6Bek5VMGp7S5OayEJlX" version="14.7.1" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-06-01T06:58:42.751Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="sMNhnNa8rvd4FWv5FRnB" version="14.7.1" type="github" pages="17">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -829,7 +829,7 @@
         <mxCell id="vuFcKktBRcq0SokZ_wux-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="wT86TTHe9nsY3zhldpvV-1" source="vuFcKktBRcq0SokZ_wux-17" target="vuFcKktBRcq0SokZ_wux-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vuFcKktBRcq0SokZ_wux-17" value="故事剧情&lt;br&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 12px&quot;&gt;学习目标(SKILL)贯穿其中&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
+        <mxCell id="vuFcKktBRcq0SokZ_wux-17" value="故事剧情&lt;br&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 12px&quot;&gt;学习目标(SKILL)贯穿&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
           <mxGeometry x="720" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vuFcKktBRcq0SokZ_wux-18" value="怪物系统&lt;br&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 12px&quot;&gt;级别、形象、技能&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="wT86TTHe9nsY3zhldpvV-1">
