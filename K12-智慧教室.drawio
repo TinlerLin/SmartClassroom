@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T13:09:43.152Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="_Dhop70Zf7yU594P3oFO" version="14.7.1" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-06-07T13:10:17.473Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="D3mudH28P-nd7SW4pNGn" version="14.7.1" type="github" pages="17">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -644,6 +644,27 @@
       <root>
         <mxCell id="GkyS1F-n0B1-h1HRwPxf-0" />
         <mxCell id="GkyS1F-n0B1-h1HRwPxf-1" parent="GkyS1F-n0B1-h1HRwPxf-0" />
+        <mxCell id="TIeTKpNPgRt1n8ycTyls-0" value="老师" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="GkyS1F-n0B1-h1HRwPxf-1">
+          <mxGeometry x="30" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="TIeTKpNPgRt1n8ycTyls-1" value="PC老师端&lt;br&gt;Web组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="GkyS1F-n0B1-h1HRwPxf-1">
+          <mxGeometry x="150" y="80" width="100" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="TIeTKpNPgRt1n8ycTyls-2" value="PC老师端&lt;br&gt;PC组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="GkyS1F-n0B1-h1HRwPxf-1">
+          <mxGeometry x="320" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="TIeTKpNPgRt1n8ycTyls-3" value="Server&lt;br&gt;业务处理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="GkyS1F-n0B1-h1HRwPxf-1">
+          <mxGeometry x="480" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="TIeTKpNPgRt1n8ycTyls-4" value="Server&lt;br&gt;消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="GkyS1F-n0B1-h1HRwPxf-1">
+          <mxGeometry x="650" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="TIeTKpNPgRt1n8ycTyls-5" value="PAD学生端&lt;br&gt;H5组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="GkyS1F-n0B1-h1HRwPxf-1">
+          <mxGeometry x="810" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="TIeTKpNPgRt1n8ycTyls-6" value="学生" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="GkyS1F-n0B1-h1HRwPxf-1">
+          <mxGeometry x="1000" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -652,6 +673,27 @@
       <root>
         <mxCell id="mBmM_c5AmmxfbAAHANTk-0" />
         <mxCell id="mBmM_c5AmmxfbAAHANTk-1" parent="mBmM_c5AmmxfbAAHANTk-0" />
+        <mxCell id="h-tVFNLQMAH50UG0-28D-0" value="老师" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="mBmM_c5AmmxfbAAHANTk-1">
+          <mxGeometry x="30" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="h-tVFNLQMAH50UG0-28D-1" value="PC老师端&lt;br&gt;Web组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="mBmM_c5AmmxfbAAHANTk-1">
+          <mxGeometry x="150" y="80" width="100" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="h-tVFNLQMAH50UG0-28D-2" value="PC老师端&lt;br&gt;PC组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="mBmM_c5AmmxfbAAHANTk-1">
+          <mxGeometry x="320" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="h-tVFNLQMAH50UG0-28D-3" value="Server&lt;br&gt;业务处理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="mBmM_c5AmmxfbAAHANTk-1">
+          <mxGeometry x="480" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="h-tVFNLQMAH50UG0-28D-4" value="Server&lt;br&gt;消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="mBmM_c5AmmxfbAAHANTk-1">
+          <mxGeometry x="650" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="h-tVFNLQMAH50UG0-28D-5" value="PAD学生端&lt;br&gt;H5组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="mBmM_c5AmmxfbAAHANTk-1">
+          <mxGeometry x="810" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="h-tVFNLQMAH50UG0-28D-6" value="学生" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="mBmM_c5AmmxfbAAHANTk-1">
+          <mxGeometry x="1000" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -660,6 +702,27 @@
       <root>
         <mxCell id="w9tfrWtGH_qDrMrHTLRB-0" />
         <mxCell id="w9tfrWtGH_qDrMrHTLRB-1" parent="w9tfrWtGH_qDrMrHTLRB-0" />
+        <mxCell id="8Tex98tMTVvgWzM5irGB-0" value="老师" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="w9tfrWtGH_qDrMrHTLRB-1">
+          <mxGeometry x="30" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="8Tex98tMTVvgWzM5irGB-1" value="PC老师端&lt;br&gt;Web组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="w9tfrWtGH_qDrMrHTLRB-1">
+          <mxGeometry x="150" y="80" width="100" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="8Tex98tMTVvgWzM5irGB-2" value="PC老师端&lt;br&gt;PC组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="w9tfrWtGH_qDrMrHTLRB-1">
+          <mxGeometry x="320" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="8Tex98tMTVvgWzM5irGB-3" value="Server&lt;br&gt;业务处理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="w9tfrWtGH_qDrMrHTLRB-1">
+          <mxGeometry x="480" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="8Tex98tMTVvgWzM5irGB-4" value="Server&lt;br&gt;消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="w9tfrWtGH_qDrMrHTLRB-1">
+          <mxGeometry x="650" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="8Tex98tMTVvgWzM5irGB-5" value="PAD学生端&lt;br&gt;H5组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="w9tfrWtGH_qDrMrHTLRB-1">
+          <mxGeometry x="810" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="8Tex98tMTVvgWzM5irGB-6" value="学生" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="w9tfrWtGH_qDrMrHTLRB-1">
+          <mxGeometry x="1000" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -668,6 +731,27 @@
       <root>
         <mxCell id="zXIcr3FtH_RWjO8gI_sU-0" />
         <mxCell id="zXIcr3FtH_RWjO8gI_sU-1" parent="zXIcr3FtH_RWjO8gI_sU-0" />
+        <mxCell id="_LYAgmiwyN7hL_nzKETg-0" value="老师" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="zXIcr3FtH_RWjO8gI_sU-1">
+          <mxGeometry x="30" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="_LYAgmiwyN7hL_nzKETg-1" value="PC老师端&lt;br&gt;Web组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="zXIcr3FtH_RWjO8gI_sU-1">
+          <mxGeometry x="150" y="80" width="100" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="_LYAgmiwyN7hL_nzKETg-2" value="PC老师端&lt;br&gt;PC组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="zXIcr3FtH_RWjO8gI_sU-1">
+          <mxGeometry x="320" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="_LYAgmiwyN7hL_nzKETg-3" value="Server&lt;br&gt;业务处理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="zXIcr3FtH_RWjO8gI_sU-1">
+          <mxGeometry x="480" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="_LYAgmiwyN7hL_nzKETg-4" value="Server&lt;br&gt;消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="zXIcr3FtH_RWjO8gI_sU-1">
+          <mxGeometry x="650" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="_LYAgmiwyN7hL_nzKETg-5" value="PAD学生端&lt;br&gt;H5组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="zXIcr3FtH_RWjO8gI_sU-1">
+          <mxGeometry x="810" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="_LYAgmiwyN7hL_nzKETg-6" value="学生" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="zXIcr3FtH_RWjO8gI_sU-1">
+          <mxGeometry x="1000" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -676,6 +760,27 @@
       <root>
         <mxCell id="grE18gBEWp-Wc--8ABal-0" />
         <mxCell id="grE18gBEWp-Wc--8ABal-1" parent="grE18gBEWp-Wc--8ABal-0" />
+        <mxCell id="XTVT2ixtGkyk0QIl1kEv-0" value="老师" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="grE18gBEWp-Wc--8ABal-1">
+          <mxGeometry x="30" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="XTVT2ixtGkyk0QIl1kEv-1" value="PC老师端&lt;br&gt;Web组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="grE18gBEWp-Wc--8ABal-1">
+          <mxGeometry x="150" y="80" width="100" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="XTVT2ixtGkyk0QIl1kEv-2" value="PC老师端&lt;br&gt;PC组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="grE18gBEWp-Wc--8ABal-1">
+          <mxGeometry x="320" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="XTVT2ixtGkyk0QIl1kEv-3" value="Server&lt;br&gt;业务处理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="grE18gBEWp-Wc--8ABal-1">
+          <mxGeometry x="480" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="XTVT2ixtGkyk0QIl1kEv-4" value="Server&lt;br&gt;消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="grE18gBEWp-Wc--8ABal-1">
+          <mxGeometry x="650" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="XTVT2ixtGkyk0QIl1kEv-5" value="PAD学生端&lt;br&gt;H5组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="grE18gBEWp-Wc--8ABal-1">
+          <mxGeometry x="810" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="XTVT2ixtGkyk0QIl1kEv-6" value="学生" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="grE18gBEWp-Wc--8ABal-1">
+          <mxGeometry x="1000" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -684,6 +789,27 @@
       <root>
         <mxCell id="mEyIUDve3WgZGQDeXzax-0" />
         <mxCell id="mEyIUDve3WgZGQDeXzax-1" parent="mEyIUDve3WgZGQDeXzax-0" />
+        <mxCell id="-GdmcIDqrVptnnpqVoaT-0" value="老师" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="mEyIUDve3WgZGQDeXzax-1">
+          <mxGeometry x="30" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="-GdmcIDqrVptnnpqVoaT-1" value="PC老师端&lt;br&gt;Web组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="mEyIUDve3WgZGQDeXzax-1">
+          <mxGeometry x="150" y="80" width="100" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="-GdmcIDqrVptnnpqVoaT-2" value="PC老师端&lt;br&gt;PC组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="mEyIUDve3WgZGQDeXzax-1">
+          <mxGeometry x="320" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="-GdmcIDqrVptnnpqVoaT-3" value="Server&lt;br&gt;业务处理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="mEyIUDve3WgZGQDeXzax-1">
+          <mxGeometry x="480" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="-GdmcIDqrVptnnpqVoaT-4" value="Server&lt;br&gt;消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="mEyIUDve3WgZGQDeXzax-1">
+          <mxGeometry x="650" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="-GdmcIDqrVptnnpqVoaT-5" value="PAD学生端&lt;br&gt;H5组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="mEyIUDve3WgZGQDeXzax-1">
+          <mxGeometry x="810" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="-GdmcIDqrVptnnpqVoaT-6" value="学生" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="mEyIUDve3WgZGQDeXzax-1">
+          <mxGeometry x="1000" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -692,6 +818,27 @@
       <root>
         <mxCell id="fyZstPE325FoAcGtCjc9-0" />
         <mxCell id="fyZstPE325FoAcGtCjc9-1" parent="fyZstPE325FoAcGtCjc9-0" />
+        <mxCell id="460q72Jirs0cMforK-LH-0" value="老师" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="fyZstPE325FoAcGtCjc9-1">
+          <mxGeometry x="30" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="460q72Jirs0cMforK-LH-1" value="PC老师端&lt;br&gt;Web组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="fyZstPE325FoAcGtCjc9-1">
+          <mxGeometry x="150" y="80" width="100" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="460q72Jirs0cMforK-LH-2" value="PC老师端&lt;br&gt;PC组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="fyZstPE325FoAcGtCjc9-1">
+          <mxGeometry x="320" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="460q72Jirs0cMforK-LH-3" value="Server&lt;br&gt;业务处理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="fyZstPE325FoAcGtCjc9-1">
+          <mxGeometry x="480" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="460q72Jirs0cMforK-LH-4" value="Server&lt;br&gt;消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="fyZstPE325FoAcGtCjc9-1">
+          <mxGeometry x="650" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="460q72Jirs0cMforK-LH-5" value="PAD学生端&lt;br&gt;H5组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="fyZstPE325FoAcGtCjc9-1">
+          <mxGeometry x="810" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="460q72Jirs0cMforK-LH-6" value="学生" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="fyZstPE325FoAcGtCjc9-1">
+          <mxGeometry x="1000" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -700,6 +847,27 @@
       <root>
         <mxCell id="stCt474OCWenaZXZ6bhy-0" />
         <mxCell id="stCt474OCWenaZXZ6bhy-1" parent="stCt474OCWenaZXZ6bhy-0" />
+        <mxCell id="t6ghdt-tLms6h2geIup--0" value="老师" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="stCt474OCWenaZXZ6bhy-1">
+          <mxGeometry x="30" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="t6ghdt-tLms6h2geIup--1" value="PC老师端&lt;br&gt;Web组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="stCt474OCWenaZXZ6bhy-1">
+          <mxGeometry x="150" y="80" width="100" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="t6ghdt-tLms6h2geIup--2" value="PC老师端&lt;br&gt;PC组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="stCt474OCWenaZXZ6bhy-1">
+          <mxGeometry x="320" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="t6ghdt-tLms6h2geIup--3" value="Server&lt;br&gt;业务处理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="stCt474OCWenaZXZ6bhy-1">
+          <mxGeometry x="480" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="t6ghdt-tLms6h2geIup--4" value="Server&lt;br&gt;消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="stCt474OCWenaZXZ6bhy-1">
+          <mxGeometry x="650" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="t6ghdt-tLms6h2geIup--5" value="PAD学生端&lt;br&gt;H5组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="stCt474OCWenaZXZ6bhy-1">
+          <mxGeometry x="810" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="t6ghdt-tLms6h2geIup--6" value="学生" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="stCt474OCWenaZXZ6bhy-1">
+          <mxGeometry x="1000" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -708,6 +876,27 @@
       <root>
         <mxCell id="-QTUeMbqqw3UGUP-H4QE-0" />
         <mxCell id="-QTUeMbqqw3UGUP-H4QE-1" parent="-QTUeMbqqw3UGUP-H4QE-0" />
+        <mxCell id="DwvIPlcSYw8z0FgR-u90-0" value="老师" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="-QTUeMbqqw3UGUP-H4QE-1">
+          <mxGeometry x="30" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="DwvIPlcSYw8z0FgR-u90-1" value="PC老师端&lt;br&gt;Web组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="-QTUeMbqqw3UGUP-H4QE-1">
+          <mxGeometry x="150" y="80" width="100" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="DwvIPlcSYw8z0FgR-u90-2" value="PC老师端&lt;br&gt;PC组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="-QTUeMbqqw3UGUP-H4QE-1">
+          <mxGeometry x="320" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="DwvIPlcSYw8z0FgR-u90-3" value="Server&lt;br&gt;业务处理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="-QTUeMbqqw3UGUP-H4QE-1">
+          <mxGeometry x="480" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="DwvIPlcSYw8z0FgR-u90-4" value="Server&lt;br&gt;消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="-QTUeMbqqw3UGUP-H4QE-1">
+          <mxGeometry x="650" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="DwvIPlcSYw8z0FgR-u90-5" value="PAD学生端&lt;br&gt;H5组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="-QTUeMbqqw3UGUP-H4QE-1">
+          <mxGeometry x="810" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="DwvIPlcSYw8z0FgR-u90-6" value="学生" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="-QTUeMbqqw3UGUP-H4QE-1">
+          <mxGeometry x="1000" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
