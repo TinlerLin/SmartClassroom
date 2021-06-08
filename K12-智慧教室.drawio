@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T07:44:33.552Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Cz_8Ngrb3THMeRNzwj4u" version="14.7.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-06-08T07:46:14.181Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="LtUImWon9Bzw_meTIn8t" version="14.7.1" type="github" pages="23">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,14 +224,11 @@
         <mxCell id="31CQN18y-Qgl9atk13FE-1" value="异常处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="697.75" y="300" width="97.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="31CQN18y-Qgl9atk13FE-2" value="身份验证" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="697.75" y="460" width="97.5" height="40" as="geometry" />
+        <mxCell id="31CQN18y-Qgl9atk13FE-2" value="权限控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+          <mxGeometry x="697.75" y="500" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-3" value="安全审计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="697.75" y="510" width="97.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="31CQN18y-Qgl9atk13FE-4" value="隐私保护" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="697.75" y="620.5" width="97.5" height="40" as="geometry" />
+          <mxGeometry x="697.75" y="605.5" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-5" value="CI/CD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="697.75" y="915.5" width="97.5" height="40" as="geometry" />
