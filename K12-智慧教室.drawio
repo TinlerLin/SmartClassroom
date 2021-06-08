@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T08:25:25.398Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="gYJOVoV13ikru_9hfdEr" version="14.7.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-06-08T08:49:20.787Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="cnVVInqvMRCeml6BYn0F" version="14.7.1" type="github" pages="23">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,15 +128,6 @@
         <mxCell id="31CQN18y-Qgl9atk13FE-9" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;verticalAlign=top;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="80" y="190" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="YFKM2nhb6RjHvO9fmlwQ-81" value="" style="group" vertex="1" connectable="0" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="210" y="22" width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="YFKM2nhb6RjHvO9fmlwQ-68" value="老师" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_desktop;pointerEvents=1" vertex="1" parent="YFKM2nhb6RjHvO9fmlwQ-81">
-          <mxGeometry width="76.92" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="YFKM2nhb6RjHvO9fmlwQ-79" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=15;fontColor=#000000;" vertex="1" parent="YFKM2nhb6RjHvO9fmlwQ-81">
-          <mxGeometry x="64" y="40" width="46" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="YFKM2nhb6RjHvO9fmlwQ-82" value="" style="group" vertex="1" connectable="0" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="504" y="20" width="172" height="92" as="geometry" />
         </mxCell>
@@ -259,6 +250,18 @@
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-22" value="数据埋点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="697.75" y="350" width="97.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="31CQN18y-Qgl9atk13FE-26" value="" style="group" vertex="1" connectable="0" parent="kfhUvre5dACyf526zLbA-1">
+          <mxGeometry x="210" y="22" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YFKM2nhb6RjHvO9fmlwQ-68" value="老师" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_desktop;pointerEvents=1" vertex="1" parent="31CQN18y-Qgl9atk13FE-26">
+          <mxGeometry width="76.92" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YFKM2nhb6RjHvO9fmlwQ-79" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontSize=15;fontColor=#000000;" vertex="1" parent="31CQN18y-Qgl9atk13FE-26">
+          <mxGeometry x="64" y="40" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="31CQN18y-Qgl9atk13FE-24" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.ipad_mini;fontSize=15;fontColor=#000000;" vertex="1" parent="31CQN18y-Qgl9atk13FE-26">
+          <mxGeometry x="44" y="12" width="33" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
