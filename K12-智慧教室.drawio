@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T02:53:26.313Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="bt2USMWsjxMaOcD2ho_k" version="14.7.1" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2021-06-08T02:56:23.447Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="U9chi_15p1ejyan0Eltn" version="14.7.1" type="github" pages="21">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -624,7 +624,7 @@
         <mxCell id="2C1xHuUvVttLkmAEv2ed-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#FF0000;" vertex="1" parent="gXG1e2IIj43ziyyVH5tk-2">
           <mxGeometry x="50" y="160" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2C1xHuUvVttLkmAEv2ed-11" value="随机算法选择学生" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=15;fontColor=#FF0000;" edge="1" target="2C1xHuUvVttLkmAEv2ed-10" parent="gXG1e2IIj43ziyyVH5tk-2">
+        <mxCell id="2C1xHuUvVttLkmAEv2ed-11" value="从花名册中随机选择" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=15;fontColor=#FF0000;" edge="1" target="2C1xHuUvVttLkmAEv2ed-10" parent="gXG1e2IIj43ziyyVH5tk-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="140" as="sourcePoint" />
             <Array as="points">
@@ -649,14 +649,11 @@
         <mxCell id="2C1xHuUvVttLkmAEv2ed-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#FF0000;" vertex="1" parent="sJGrf2jGTfEfZ6Tu5Art-0">
           <mxGeometry x="45" y="240" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vpgxbRpd9mNnHVd_dmv8-0" value="Server&lt;br&gt;业务处理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="nEP4tYC7BjP-U8ZL__BW-1">
-          <mxGeometry x="480" y="80" width="100" height="670" as="geometry" />
-        </mxCell>
         <mxCell id="229YR7yEDIH6dLnQktfD-0" value="Server&lt;br&gt;消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="nEP4tYC7BjP-U8ZL__BW-1">
-          <mxGeometry x="650" y="80" width="100" height="670" as="geometry" />
+          <mxGeometry x="510" y="80" width="100" height="670" as="geometry" />
         </mxCell>
         <mxCell id="229YR7yEDIH6dLnQktfD-1" value="PAD学生端&lt;br&gt;H5组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="nEP4tYC7BjP-U8ZL__BW-1">
-          <mxGeometry x="810" y="80" width="100" height="670" as="geometry" />
+          <mxGeometry x="680" y="80" width="100" height="670" as="geometry" />
         </mxCell>
         <mxCell id="2C1xHuUvVttLkmAEv2ed-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#FF0000;" vertex="1" parent="229YR7yEDIH6dLnQktfD-1">
           <mxGeometry x="45" y="310" width="10" height="80" as="geometry" />
@@ -670,6 +667,12 @@
             <Array as="points">
               <mxPoint x="85" y="330" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2C1xHuUvVttLkmAEv2ed-25" value="" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#FF0000;" edge="1" parent="229YR7yEDIH6dLnQktfD-1" target="2C1xHuUvVttLkmAEv2ed-24">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="60" y="370" as="sourcePoint" />
+            <mxPoint x="140" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2C1xHuUvVttLkmAEv2ed-12" value="通知随机点名结果" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#FF0000;" edge="1" parent="nEP4tYC7BjP-U8ZL__BW-1" source="gXG1e2IIj43ziyyVH5tk-2" target="2C1xHuUvVttLkmAEv2ed-19">
@@ -691,16 +694,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2C1xHuUvVttLkmAEv2ed-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#FF0000;" vertex="1" parent="nEP4tYC7BjP-U8ZL__BW-1">
-          <mxGeometry x="695" y="360" width="10" height="30" as="geometry" />
+          <mxGeometry x="555" y="360" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2C1xHuUvVttLkmAEv2ed-20" value="广播随机点名结果" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#FF0000;exitX=1.1;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="nEP4tYC7BjP-U8ZL__BW-1" target="229YR7yEDIH6dLnQktfD-1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="705" y="390" as="sourcePoint" />
-            <mxPoint x="860" y="391" as="targetPoint" />
+            <mxPoint x="565" y="390" as="sourcePoint" />
+            <mxPoint x="720" y="391" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="779.5" y="390" />
+              <mxPoint x="639.5" y="390" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2C1xHuUvVttLkmAEv2ed-24" value="学生" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="nEP4tYC7BjP-U8ZL__BW-1">
+          <mxGeometry x="860" y="80" width="40" height="670" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
