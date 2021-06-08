@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T07:47:49.535Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="zc6PgUKTJQfssJCPZNNq" version="14.7.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-06-08T07:49:56.624Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Uvb0kZ2VTNwXQmPr-8MY" version="14.7.1" type="github" pages="23">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,16 +158,16 @@
         <mxCell id="oF1ErSRjBmM3fEyuZMwx-1" value="注册/登录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="100.5" y="230" width="97.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oF1ErSRjBmM3fEyuZMwx-5" value="逻辑层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+        <mxCell id="oF1ErSRjBmM3fEyuZMwx-5" value="业务逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="10" y="480" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="oF1ErSRjBmM3fEyuZMwx-6" value="数据层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+        <mxCell id="oF1ErSRjBmM3fEyuZMwx-6" value="数据处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="10" y="620.5" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="oF1ErSRjBmM3fEyuZMwx-7" value="基础设施" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="10" y="915.5" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="oF1ErSRjBmM3fEyuZMwx-10" value="表示层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;horizontal=1;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+        <mxCell id="oF1ErSRjBmM3fEyuZMwx-10" value="用户交互" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;horizontal=1;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="10" y="300" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="oF1ErSRjBmM3fEyuZMwx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=24;" edge="1" parent="kfhUvre5dACyf526zLbA-1" source="oF1ErSRjBmM3fEyuZMwx-10" target="oF1ErSRjBmM3fEyuZMwx-10">
@@ -191,8 +191,8 @@
             <mxPoint x="682.5" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oF1ErSRjBmM3fEyuZMwx-41" value="通信层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="10" y="750.5" width="30" height="10" as="geometry" />
+        <mxCell id="oF1ErSRjBmM3fEyuZMwx-41" value="消息通信" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+          <mxGeometry x="10" y="750" width="30" height="10.5" as="geometry" />
         </mxCell>
         <mxCell id="oF1ErSRjBmM3fEyuZMwx-42" value="" style="endArrow=none;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=24;" edge="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
