@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T08:49:20.787Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="cnVVInqvMRCeml6BYn0F" version="14.7.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-06-08T08:53:43.911Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="vtG9dGfD_8f5mN2P-py6" version="14.7.1" type="github" pages="23">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,6 +262,15 @@
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-24" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.ipad_mini;fontSize=15;fontColor=#000000;" vertex="1" parent="31CQN18y-Qgl9atk13FE-26">
           <mxGeometry x="44" y="12" width="33" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="31CQN18y-Qgl9atk13FE-27" value="HTTPS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+          <mxGeometry x="80" y="750" width="97.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="31CQN18y-Qgl9atk13FE-28" value="WebSocket" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+          <mxGeometry x="200" y="750" width="97.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="31CQN18y-Qgl9atk13FE-29" value="1. PC、移动设备&lt;br&gt;2. 纸笔、答题器" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+          <mxGeometry x="700" y="50" width="120" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
