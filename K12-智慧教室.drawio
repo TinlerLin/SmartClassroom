@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T11:41:11.717Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="48ReWfClxZjyD8atigOt" version="14.7.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-06-08T11:41:55.347Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="qhgzUk-mEEeDVSzN3qSZ" version="14.7.1" type="github" pages="23">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
           <mxGeometry x="543.25" y="230.5" width="140" height="230" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-10" value="组班模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;verticalAlign=top;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="241.25" y="230.5" width="140" height="140" as="geometry" />
+          <mxGeometry x="230.25" y="230.5" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-9" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;verticalAlign=top;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="81.25" y="230.5" width="140" height="140" as="geometry" />
@@ -198,10 +198,10 @@
           <mxGeometry x="101.75" y="320.5" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oF1ErSRjBmM3fEyuZMwx-52" value="班级管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="262.5" y="270.5" width="97.5" height="40" as="geometry" />
+          <mxGeometry x="251.5" y="270.5" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oF1ErSRjBmM3fEyuZMwx-53" value="课堂管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="262.5" y="320.5" width="97.5" height="40" as="geometry" />
+          <mxGeometry x="251.5" y="320.5" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oF1ErSRjBmM3fEyuZMwx-56" value="习题统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="564.5" y="270.5" width="97.5" height="40" as="geometry" />
@@ -285,7 +285,7 @@
           <mxGeometry x="80.5" y="860" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-41" value="教学设备管理&lt;br&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 13px&quot;&gt;摄像头、音箱、话筒等&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;verticalAlign=middle;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="240.5" y="380.5" width="140.75" height="80" as="geometry" />
+          <mxGeometry x="229.5" y="380.5" width="140.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-43" value="基础设施" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="10" y="1012.5" width="30" height="10" as="geometry" />
