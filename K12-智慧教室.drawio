@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T03:10:09.378Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="zg8gnxomZdL0Tekye62h" version="14.7.1" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2021-06-08T03:17:43.369Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="aacrFArcmu5_bLxvmFLU" version="14.7.1" type="github" pages="22">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -585,42 +585,48 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h-TxrGCN2_U7Xz9RwCB4" name="随机点名">
-    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DnAgvZ55uZEuzvcrWyGa-0" />
         <mxCell id="DnAgvZ55uZEuzvcrWyGa-1" parent="DnAgvZ55uZEuzvcrWyGa-0" />
-        <mxCell id="FwPjNWrHOtY0e_qt6qvN-0" value="老师" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
-          <mxGeometry x="30" y="80" width="40" height="680" as="geometry" />
+        <mxCell id="4bFIjC_7-9TbVYnZOUKY-1" value="Client - 老师端" style="swimlane;fontSize=15;fontColor=#FF0000;startSize=23;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
+          <mxGeometry x="-200" y="10" width="600" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="FwPjNWrHOtY0e_qt6qvN-3" value="随机点名组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
-          <mxGeometry x="150" y="80" width="100" height="680" as="geometry" />
+        <mxCell id="KYk_jFuxZaLndUDbkgqm-0" value="课堂活动管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="4bFIjC_7-9TbVYnZOUKY-1">
+          <mxGeometry x="40" y="45" width="100" height="685" as="geometry" />
         </mxCell>
-        <mxCell id="FwPjNWrHOtY0e_qt6qvN-11" value="课堂活动管理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
-          <mxGeometry x="320" y="80" width="100" height="670" as="geometry" />
+        <mxCell id="KYk_jFuxZaLndUDbkgqm-1" value="花名册" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="4bFIjC_7-9TbVYnZOUKY-1">
+          <mxGeometry x="180" y="45" width="100" height="685" as="geometry" />
         </mxCell>
-        <mxCell id="FwPjNWrHOtY0e_qt6qvN-13" value="消息管理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
-          <mxGeometry x="510" y="80" width="100" height="670" as="geometry" />
+        <mxCell id="KYk_jFuxZaLndUDbkgqm-2" value="随机点名" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="4bFIjC_7-9TbVYnZOUKY-1">
+          <mxGeometry x="320" y="45" width="100" height="685" as="geometry" />
         </mxCell>
-        <mxCell id="FwPjNWrHOtY0e_qt6qvN-14" value="随机点名组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
-          <mxGeometry x="1130" y="80" width="100" height="670" as="geometry" />
+        <mxCell id="KYk_jFuxZaLndUDbkgqm-3" value="消息管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="4bFIjC_7-9TbVYnZOUKY-1">
+          <mxGeometry x="460" y="45" width="100" height="685" as="geometry" />
         </mxCell>
-        <mxCell id="FwPjNWrHOtY0e_qt6qvN-23" value="学生" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
-          <mxGeometry x="1300" y="85" width="40" height="670" as="geometry" />
+        <mxCell id="4bFIjC_7-9TbVYnZOUKY-2" value="Server" style="swimlane;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
+          <mxGeometry x="400" y="10" width="200" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="UCSUiyR1arNJ1a3lmHrP-0" value="课堂活动管理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
-          <mxGeometry x="980" y="80" width="100" height="670" as="geometry" />
+        <mxCell id="KYk_jFuxZaLndUDbkgqm-4" value="消息分发" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="4bFIjC_7-9TbVYnZOUKY-2">
+          <mxGeometry x="50" y="45" width="100" height="685" as="geometry" />
         </mxCell>
-        <mxCell id="UCSUiyR1arNJ1a3lmHrP-1" value="消息管理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
-          <mxGeometry x="820" y="80" width="100" height="670" as="geometry" />
+        <mxCell id="4bFIjC_7-9TbVYnZOUKY-3" value="Client - 学生端" style="swimlane;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
+          <mxGeometry x="600" y="10" width="480" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="UCSUiyR1arNJ1a3lmHrP-2" value="Client-老师端" style="swimlane;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
-          <mxGeometry x="20" y="20" width="600" height="740" as="geometry" />
+        <mxCell id="KYk_jFuxZaLndUDbkgqm-5" value="消息管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="4bFIjC_7-9TbVYnZOUKY-3">
+          <mxGeometry x="30" y="42.5" width="100" height="685" as="geometry" />
         </mxCell>
-        <mxCell id="UCSUiyR1arNJ1a3lmHrP-3" value="消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
-          <mxGeometry x="670" y="80" width="100" height="670" as="geometry" />
+        <mxCell id="KYk_jFuxZaLndUDbkgqm-6" value="课堂活动管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="4bFIjC_7-9TbVYnZOUKY-3">
+          <mxGeometry x="170" y="42.5" width="100" height="685" as="geometry" />
         </mxCell>
-        <mxCell id="UCSUiyR1arNJ1a3lmHrP-4" value="Client-学生端" style="swimlane;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
-          <mxGeometry x="810" y="20" width="570" height="740" as="geometry" />
+        <mxCell id="KYk_jFuxZaLndUDbkgqm-7" value="随机点名" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="4bFIjC_7-9TbVYnZOUKY-3">
+          <mxGeometry x="340" y="40" width="100" height="685" as="geometry" />
+        </mxCell>
+        <mxCell id="h8bJdbM3Nn_nNtlhni2L-0" value="老师" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
+          <mxGeometry x="-260" y="55" width="40" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Er3M4KQ5WVNY8K7FlGlg-0" value="学生" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
+          <mxGeometry x="1110" y="50" width="40" height="700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
