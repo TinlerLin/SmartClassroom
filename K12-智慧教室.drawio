@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T11:41:55.347Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="qhgzUk-mEEeDVSzN3qSZ" version="14.7.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-06-08T11:42:51.356Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="i0SGYG5v3zcgyCD1Saej" version="14.7.1" type="github" pages="23">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,10 +213,10 @@
           <mxGeometry x="564.5" y="360.5" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-0" value="日志记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="731.75" y="170" width="97.5" height="40" as="geometry" />
+          <mxGeometry x="731.75" y="155" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-1" value="异常处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="731.75" y="220" width="97.5" height="40" as="geometry" />
+          <mxGeometry x="731.75" y="205" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-2" value="权限控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="731.75" y="410" width="97.5" height="40" as="geometry" />
@@ -252,7 +252,7 @@
           <mxGeometry x="731.75" y="1030.5" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-22" value="数据采集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="731.75" y="270" width="97.5" height="40" as="geometry" />
+          <mxGeometry x="731.75" y="255" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-26" value="" style="group" vertex="1" connectable="0" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="170" y="6" width="110" height="90" as="geometry" />
