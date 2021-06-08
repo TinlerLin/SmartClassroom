@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T02:56:23.447Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="U9chi_15p1ejyan0Eltn" version="14.7.1" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2021-06-08T03:05:36.290Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="SSS0xrZZlSVWmh0qijKs" version="14.7.1" type="github" pages="22">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -580,6 +580,32 @@
         </mxCell>
         <mxCell id="cqIg3D03lSQ96cCOZXNr-2" value="下发资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="1" vertex="1">
           <mxGeometry x="150" y="-890" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="h-TxrGCN2_U7Xz9RwCB4" name="随机点名">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DnAgvZ55uZEuzvcrWyGa-0" />
+        <mxCell id="DnAgvZ55uZEuzvcrWyGa-1" parent="DnAgvZ55uZEuzvcrWyGa-0" />
+        <mxCell id="FwPjNWrHOtY0e_qt6qvN-0" value="老师" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
+          <mxGeometry x="30" y="80" width="40" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="FwPjNWrHOtY0e_qt6qvN-3" value="随机点名组件&lt;br&gt;老师端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
+          <mxGeometry x="150" y="80" width="100" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="FwPjNWrHOtY0e_qt6qvN-11" value="课堂活动管理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
+          <mxGeometry x="320" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="FwPjNWrHOtY0e_qt6qvN-13" value="消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
+          <mxGeometry x="510" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="FwPjNWrHOtY0e_qt6qvN-14" value="随机点名组件&lt;br&gt;学生端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
+          <mxGeometry x="680" y="80" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="FwPjNWrHOtY0e_qt6qvN-23" value="学生" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
+          <mxGeometry x="860" y="80" width="40" height="670" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
