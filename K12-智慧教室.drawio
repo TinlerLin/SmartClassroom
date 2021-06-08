@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T11:16:33.599Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="f4XUpwDVDKLtQXfaN7MC" version="14.7.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-06-08T11:27:23.491Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="0-55rb5kaIPEXbgofMwC" version="14.7.1" type="github" pages="23">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -335,7 +335,7 @@
         <mxCell id="31CQN18y-Qgl9atk13FE-67" value="标准与规范体系" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;horizontal=1;verticalAlign=middle;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="686.5" y="110" width="30" height="970" as="geometry" />
         </mxCell>
-        <mxCell id="31CQN18y-Qgl9atk13FE-69" value="PC端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+        <mxCell id="31CQN18y-Qgl9atk13FE-69" value="PC/Web端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="170" y="155" width="139.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-70" value="App端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
