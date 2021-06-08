@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T03:42:07.378Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="0wld3VNGctrSedD501DP" version="14.7.1" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2021-06-08T03:44:35.557Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="z9rP_mzBtb6sAbM6evKP" version="14.7.1" type="github" pages="22">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -593,7 +593,7 @@
           <mxGeometry x="600" y="10" width="530" height="770" as="geometry" />
         </mxCell>
         <mxCell id="KYk_jFuxZaLndUDbkgqm-5" value="消息管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="4bFIjC_7-9TbVYnZOUKY-3">
-          <mxGeometry x="30" y="42.5" width="100" height="685" as="geometry" />
+          <mxGeometry x="10" y="42.5" width="100" height="685" as="geometry" />
         </mxCell>
         <mxCell id="KYk_jFuxZaLndUDbkgqm-6" value="课堂活动管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="4bFIjC_7-9TbVYnZOUKY-3">
           <mxGeometry x="170" y="42.5" width="100" height="685" as="geometry" />
@@ -608,7 +608,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6ZnfDw2kPFom1f9gLxaR-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#FF0000;" vertex="1" parent="4bFIjC_7-9TbVYnZOUKY-3">
-          <mxGeometry x="75" y="470" width="10" height="40" as="geometry" />
+          <mxGeometry x="55" y="470" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6ZnfDw2kPFom1f9gLxaR-2" value="通知随机点名结果" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#FF0000;" edge="1" parent="4bFIjC_7-9TbVYnZOUKY-3" source="6ZnfDw2kPFom1f9gLxaR-1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -710,13 +710,13 @@
           <mxGeometry x="45" y="325" width="10" height="55" as="geometry" />
         </mxCell>
         <mxCell id="KYk_jFuxZaLndUDbkgqm-2" value="花名册" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="4bFIjC_7-9TbVYnZOUKY-1">
-          <mxGeometry x="320" y="45" width="100" height="685" as="geometry" />
+          <mxGeometry x="370" y="45" width="100" height="685" as="geometry" />
         </mxCell>
         <mxCell id="Er3M4KQ5WVNY8K7FlGlg-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#FF0000;" vertex="1" parent="KYk_jFuxZaLndUDbkgqm-2">
           <mxGeometry x="45" y="180" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KYk_jFuxZaLndUDbkgqm-3" value="消息管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;fontColor=#FF0000;" vertex="1" parent="4bFIjC_7-9TbVYnZOUKY-1">
-          <mxGeometry x="460" y="45" width="100" height="685" as="geometry" />
+          <mxGeometry x="490" y="45" width="100" height="685" as="geometry" />
         </mxCell>
         <mxCell id="zXSQ2ZGsQ68kY1aimGpo-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#FF0000;" vertex="1" parent="KYk_jFuxZaLndUDbkgqm-3">
           <mxGeometry x="45" y="370" width="10" height="30" as="geometry" />
@@ -772,13 +772,13 @@
             <mxPoint x="-190" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zXSQ2ZGsQ68kY1aimGpo-3" value="发送消息：随机点名结果" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#FF0000;" edge="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
+        <mxCell id="zXSQ2ZGsQ68kY1aimGpo-3" value="发送消息：&lt;br&gt;随机点名结果" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#FF0000;" edge="1" parent="DnAgvZ55uZEuzvcrWyGa-1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="313" y="451" as="sourcePoint" />
+            <mxPoint x="346" y="451" as="sourcePoint" />
             <mxPoint x="498" y="451" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6ZnfDw2kPFom1f9gLxaR-0" value="广播消息：随机点名结果" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#FF0000;exitX=0.9;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="DnAgvZ55uZEuzvcrWyGa-1" source="zXSQ2ZGsQ68kY1aimGpo-4" target="KYk_jFuxZaLndUDbkgqm-5">
+        <mxCell id="6ZnfDw2kPFom1f9gLxaR-0" value="广播消息：&lt;br&gt;随机点名结果" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#FF0000;exitX=0.9;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="DnAgvZ55uZEuzvcrWyGa-1" source="zXSQ2ZGsQ68kY1aimGpo-4" target="KYk_jFuxZaLndUDbkgqm-5">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="520" y="480" as="sourcePoint" />
             <mxPoint x="580" y="480" as="targetPoint" />
