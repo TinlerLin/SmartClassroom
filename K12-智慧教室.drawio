@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T13:08:19.638Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="zbkRHHhsn05_wj9PMOSF" version="14.7.6" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2021-06-09T13:09:13.021Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="TtWiq1ph90tEGzhiisJx" version="14.7.6" type="github" pages="20">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -392,7 +392,7 @@
         <mxCell id="xOB49kr0a_hiN0VMqa8N-22" value="学生设备管理&lt;br&gt;&lt;span style=&quot;color: rgb(255 , 0 , 0) ; font-size: 13px&quot;&gt;纸笔、答题器、VR眼镜等&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
           <mxGeometry x="524" y="-1006" width="106" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="xOB49kr0a_hiN0VMqa8N-25" value="智慧教室远程通信服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;verticalAlign=middle;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
+        <mxCell id="xOB49kr0a_hiN0VMqa8N-25" value="课堂通信服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;verticalAlign=middle;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
           <mxGeometry x="190" y="-653" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dP6AfJNWbYUQenrDkaae-6" value="MQ" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mq;fontFamily=Helvetica;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
@@ -435,7 +435,7 @@
         <mxCell id="dP6AfJNWbYUQenrDkaae-22" value="学生设备&lt;br&gt;绑定服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
           <mxGeometry x="627" y="304" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dP6AfJNWbYUQenrDkaae-23" value="通信服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
+        <mxCell id="dP6AfJNWbYUQenrDkaae-23" value="课堂通信服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
           <mxGeometry x="420.75" y="580" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dP6AfJNWbYUQenrDkaae-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="kfhUvre5dACyf526zLbA-1" source="dP6AfJNWbYUQenrDkaae-26" target="dP6AfJNWbYUQenrDkaae-23" edge="1">
@@ -1108,7 +1108,7 @@
             <mxPoint x="130" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="32TUfACcxRAalrQRMRrQ-3" value="Server&lt;br&gt;业务处理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;" parent="-e7urY1rTWYr_V4kS83i-1" vertex="1">
+        <mxCell id="32TUfACcxRAalrQRMRrQ-3" value="Server&lt;br&gt;课堂业务服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;" parent="-e7urY1rTWYr_V4kS83i-1" vertex="1">
           <mxGeometry x="480" y="80" width="100" height="670" as="geometry" />
         </mxCell>
         <mxCell id="Ms9_FOfabsiWaXPSLTgb-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" parent="32TUfACcxRAalrQRMRrQ-3" vertex="1">
@@ -1137,7 +1137,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="32TUfACcxRAalrQRMRrQ-4" value="Server&lt;br&gt;消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;" parent="-e7urY1rTWYr_V4kS83i-1" vertex="1">
+        <mxCell id="32TUfACcxRAalrQRMRrQ-4" value="Server&lt;br&gt;课堂通信服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;" parent="-e7urY1rTWYr_V4kS83i-1" vertex="1">
           <mxGeometry x="650" y="80" width="100" height="670" as="geometry" />
         </mxCell>
         <mxCell id="Ms9_FOfabsiWaXPSLTgb-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" parent="32TUfACcxRAalrQRMRrQ-4" vertex="1">
