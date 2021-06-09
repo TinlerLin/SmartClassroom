@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T09:24:53.110Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="FKhlTHywhNsjpHTehcLO" version="14.7.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-06-09T09:25:24.470Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="s8VyX_vwGBMSO0Ib8H88" version="14.7.1" type="github" pages="23">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
         <mxCell id="xOB49kr0a_hiN0VMqa8N-17" value="管理后台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;strokeColor=#000000;strokeWidth=1;align=left;verticalAlign=top;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="500" y="-1040" width="290" height="163" as="geometry" />
         </mxCell>
-        <mxCell id="31CQN18y-Qgl9atk13FE-18" value="统计分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;verticalAlign=top;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+        <mxCell id="31CQN18y-Qgl9atk13FE-18" value="统计分析报告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;verticalAlign=top;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="652.75" y="-860.5" width="140" height="230" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-10" value="课堂服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;verticalAlign=top;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
@@ -224,7 +224,7 @@
         <mxCell id="31CQN18y-Qgl9atk13FE-5" value="CI/CD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="841.25" y="-110.5" width="97.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="31CQN18y-Qgl9atk13FE-13" value="课堂互动" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;verticalAlign=top;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+        <mxCell id="31CQN18y-Qgl9atk13FE-13" value="课堂互动服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;verticalAlign=top;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="500" y="-860.5" width="142.75" height="230" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-14" value="随堂练习" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
@@ -242,7 +242,7 @@
         <mxCell id="31CQN18y-Qgl9atk13FE-19" value="... ..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="674" y="-680.5" width="97.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="31CQN18y-Qgl9atk13FE-20" value="教学资源管理&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot; color=&quot;#ff0000&quot;&gt;文档、音视频、课件等&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;verticalAlign=middle;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+        <mxCell id="31CQN18y-Qgl9atk13FE-20" value="教学资源管理服务&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot; color=&quot;#ff0000&quot;&gt;文档、音视频、课件等&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;verticalAlign=middle;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="190" y="-710.5" width="140.75" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-21" value="监控报警" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
@@ -281,7 +281,7 @@
         <mxCell id="31CQN18y-Qgl9atk13FE-38" value="NDR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="190" y="-231" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="31CQN18y-Qgl9atk13FE-41" value="学生设备管理&lt;br&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 13px&quot;&gt;纸笔、答题器、&lt;br&gt;VR眼镜等&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;verticalAlign=middle;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+        <mxCell id="31CQN18y-Qgl9atk13FE-41" value="学生设备管理服务&lt;br&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 13px&quot;&gt;纸笔、答题器、&lt;br&gt;VR眼镜等&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;verticalAlign=middle;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="339" y="-710.5" width="140.75" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-43" value="基础设施" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
