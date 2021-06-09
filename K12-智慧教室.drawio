@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T09:29:04.733Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="6l3Uj3OGqzaNruaMDuUT" version="14.7.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-06-09T09:30:46.452Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="7FVygiVg9NibGyNgbIQQ" version="14.7.1" type="github" pages="23">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -509,13 +509,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dP6AfJNWbYUQenrDkaae-37" value="笔盒报文服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="618.75" y="140" width="86" height="40" as="geometry" />
+          <mxGeometry x="627" y="140" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dP6AfJNWbYUQenrDkaae-39" value="UDP" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kfhUvre5dACyf526zLbA-1" source="dP6AfJNWbYUQenrDkaae-40" target="dP6AfJNWbYUQenrDkaae-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dP6AfJNWbYUQenrDkaae-42" value="MQ消息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="618.75" y="234" width="86" height="40" as="geometry" />
+          <mxGeometry x="627" y="234" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dP6AfJNWbYUQenrDkaae-43" value="MQ消息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="420.75" y="407" width="86" height="40" as="geometry" />
