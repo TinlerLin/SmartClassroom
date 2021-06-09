@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T09:31:06.366Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="KHIYVhMf39jxT7mwa9jN" version="14.7.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-06-09T09:32:27.883Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="HY-p23msVRTdj2p3R2pJ" version="14.7.1" type="github" pages="23">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -390,7 +390,7 @@
           <mxGeometry x="340" y="-962.5" width="122.5" height="75.5" as="geometry" />
         </mxCell>
         <mxCell id="xOB49kr0a_hiN0VMqa8N-22" value="学生设备管理&lt;br&gt;&lt;span style=&quot;color: rgb(255 , 0 , 0) ; font-size: 13px&quot;&gt;纸笔、答题器、VR眼镜等&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
-          <mxGeometry x="524" y="-1006" width="226" height="69" as="geometry" />
+          <mxGeometry x="524" y="-1006" width="106" height="69" as="geometry" />
         </mxCell>
         <mxCell id="xOB49kr0a_hiN0VMqa8N-25" value="智慧教室远程通信服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="190" y="-653" width="290" height="30" as="geometry" />
@@ -585,6 +585,9 @@
         </mxCell>
         <mxCell id="dP6AfJNWbYUQenrDkaae-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="kfhUvre5dACyf526zLbA-1" source="dP6AfJNWbYUQenrDkaae-42" target="dP6AfJNWbYUQenrDkaae-47">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dP6AfJNWbYUQenrDkaae-66" value="课堂活动&lt;br&gt;配置管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+          <mxGeometry x="643.75" y="-1007" width="106" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
