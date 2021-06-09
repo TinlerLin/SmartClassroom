@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T09:13:08.253Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="1zyiAGd6NPIL-v2CZrJW" version="14.7.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-06-09T09:13:18.680Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="qmP8zjgI254iYDL1kz08" version="14.7.1" type="github" pages="23">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -383,7 +383,7 @@
         <mxCell id="xOB49kr0a_hiN0VMqa8N-18" value="学情统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="643.75" y="-922" width="101.75" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="xOB49kr0a_hiN0VMqa8N-20" value="学生其它外设端&lt;br&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 13px&quot;&gt;纸笔、答题器、VR眼镜等&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+        <mxCell id="xOB49kr0a_hiN0VMqa8N-20" value="学生其它设备端&lt;br&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 13px&quot;&gt;纸笔、答题器、VR眼镜等&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="340" y="-962.5" width="122.5" height="75.5" as="geometry" />
         </mxCell>
         <mxCell id="xOB49kr0a_hiN0VMqa8N-22" value="学生设备管理&lt;br&gt;&lt;span style=&quot;color: rgb(255 , 0 , 0) ; font-size: 13px&quot;&gt;纸笔、答题器、VR眼镜等&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
