@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T09:57:54.418Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="wEsXIdRVMTFo4tEzKyru" version="14.7.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-06-09T12:08:16.634Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="peBba9I3WsGhn297R00E" version="14.7.1" type="github" pages="23">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -914,7 +914,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dVWULPc1-X__MVmkzuiI" name="组件构成.bak">
-    <mxGraphModel dx="1422" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1397,6 +1397,9 @@
       <root>
         <mxCell id="-e7urY1rTWYr_V4kS83i-0" />
         <mxCell id="-e7urY1rTWYr_V4kS83i-1" parent="-e7urY1rTWYr_V4kS83i-0" />
+        <mxCell id="Ms9_FOfabsiWaXPSLTgb-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="-e7urY1rTWYr_V4kS83i-1">
+          <mxGeometry x="524" y="450" width="10" height="125" as="geometry" />
+        </mxCell>
         <mxCell id="32TUfACcxRAalrQRMRrQ-0" value="老师" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;" vertex="1" parent="-e7urY1rTWYr_V4kS83i-1">
           <mxGeometry x="30" y="80" width="40" height="680" as="geometry" />
         </mxCell>
@@ -1455,38 +1458,6 @@
             <mxPoint x="130" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="32TUfACcxRAalrQRMRrQ-2">
-          <mxGeometry x="45" y="425" width="10" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="32TUfACcxRAalrQRMRrQ-2">
-          <mxGeometry x="50" y="480" width="10" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-18" value="计算抢答结果" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=15;fontColor=#000000;" edge="1" target="Ms9_FOfabsiWaXPSLTgb-17" parent="32TUfACcxRAalrQRMRrQ-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="460" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="85" y="460" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-19" value="同步抢答结果" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#000000;" edge="1" parent="32TUfACcxRAalrQRMRrQ-2" target="32TUfACcxRAalrQRMRrQ-1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="50" y="500" as="sourcePoint" />
-            <mxPoint x="-110" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-25" value="通知抢答结果" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#000000;" edge="1" parent="32TUfACcxRAalrQRMRrQ-2" target="32TUfACcxRAalrQRMRrQ-4">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="50" y="510" as="sourcePoint" />
-            <mxPoint x="130" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-34" value="发送抢答结果" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#000000;entryX=0.7;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="32TUfACcxRAalrQRMRrQ-2" target="Ms9_FOfabsiWaXPSLTgb-35">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="50" y="540" as="sourcePoint" />
-            <mxPoint x="200" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="32TUfACcxRAalrQRMRrQ-3" value="Server&lt;br&gt;业务处理组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;" vertex="1" parent="-e7urY1rTWYr_V4kS83i-1">
           <mxGeometry x="480" y="80" width="100" height="670" as="geometry" />
         </mxCell>
@@ -1505,17 +1476,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="32TUfACcxRAalrQRMRrQ-3">
-          <mxGeometry x="45" y="540" width="10" height="90" as="geometry" />
+        <mxCell id="3e4Z2ywrOMm4RE7TrlpK-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Helvetica;fontSize=16;fontColor=#000000;strokeColor=#000000;strokeWidth=1;align=left;verticalAlign=top;" vertex="1" parent="32TUfACcxRAalrQRMRrQ-3">
+          <mxGeometry x="49" y="430" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="32TUfACcxRAalrQRMRrQ-3">
-          <mxGeometry x="50" y="580" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-37" value="保存抢答结果" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=15;fontColor=#000000;" edge="1" target="Ms9_FOfabsiWaXPSLTgb-36" parent="32TUfACcxRAalrQRMRrQ-3">
+        <mxCell id="3e4Z2ywrOMm4RE7TrlpK-1" value="self call" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontFamily=Helvetica;fontSize=16;fontColor=#000000;" edge="1" target="3e4Z2ywrOMm4RE7TrlpK-0" parent="32TUfACcxRAalrQRMRrQ-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="560" as="sourcePoint" />
+            <mxPoint x="54" y="410" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85" y="560" />
+              <mxPoint x="84" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1524,18 +1492,6 @@
         </mxCell>
         <mxCell id="Ms9_FOfabsiWaXPSLTgb-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="32TUfACcxRAalrQRMRrQ-4">
           <mxGeometry x="45" y="280" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="32TUfACcxRAalrQRMRrQ-4">
-          <mxGeometry x="45" y="390" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="32TUfACcxRAalrQRMRrQ-4">
-          <mxGeometry x="45" y="510" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-27" value="通知抢答结果" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#000000;" edge="1" parent="32TUfACcxRAalrQRMRrQ-4" target="32TUfACcxRAalrQRMRrQ-5">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="50" y="550" as="sourcePoint" />
-            <mxPoint x="130" y="550" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="32TUfACcxRAalrQRMRrQ-5" value="PAD学生端&lt;br&gt;H5组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;" vertex="1" parent="-e7urY1rTWYr_V4kS83i-1">
           <mxGeometry x="810" y="80" width="100" height="670" as="geometry" />
@@ -1551,20 +1507,6 @@
             <mxPoint x="55" y="330" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="85" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="32TUfACcxRAalrQRMRrQ-5">
-          <mxGeometry x="45" y="550" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="32TUfACcxRAalrQRMRrQ-5">
-          <mxGeometry x="50" y="580" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-30" value="显示抢答结果" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=15;fontColor=#000000;" edge="1" target="Ms9_FOfabsiWaXPSLTgb-29" parent="32TUfACcxRAalrQRMRrQ-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="560" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="85" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1592,28 +1534,16 @@
             <mxPoint x="780" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-13" value="发送抢答消息" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#000000;exitX=0.2;exitY=0.889;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="-e7urY1rTWYr_V4kS83i-1" source="Ms9_FOfabsiWaXPSLTgb-9" target="32TUfACcxRAalrQRMRrQ-4">
+        <mxCell id="Ms9_FOfabsiWaXPSLTgb-13" value="发送抢答消息" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#000000;exitX=0.2;exitY=0.889;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="-e7urY1rTWYr_V4kS83i-1" source="Ms9_FOfabsiWaXPSLTgb-9" target="Ms9_FOfabsiWaXPSLTgb-16">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="770" y="550" as="sourcePoint" />
             <mxPoint x="850" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-15" value="发送学生抢答消息" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;fontColor=#000000;exitX=0;exitY=0.86;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="-e7urY1rTWYr_V4kS83i-1" source="Ms9_FOfabsiWaXPSLTgb-14" target="32TUfACcxRAalrQRMRrQ-2">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="750" y="550" as="sourcePoint" />
-            <mxPoint x="830" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ms9_FOfabsiWaXPSLTgb-24" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=15;fontColor=#000000;" edge="1" parent="-e7urY1rTWYr_V4kS83i-1" target="32TUfACcxRAalrQRMRrQ-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="650" as="sourcePoint" />
             <mxPoint x="120" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ms9_FOfabsiWaXPSLTgb-32" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=15;fontColor=#000000;exitX=1;exitY=0.775;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="-e7urY1rTWYr_V4kS83i-1" source="Ms9_FOfabsiWaXPSLTgb-29" target="32TUfACcxRAalrQRMRrQ-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870" y="740" as="sourcePoint" />
-            <mxPoint x="790" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
