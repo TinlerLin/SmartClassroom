@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T13:05:11.469Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="jbMoOQQshInVfGDzFv3f" version="14.7.6" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2021-06-09T13:06:39.661Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="NWtfOKSUZaHJnpFy8irS" version="14.7.6" type="github" pages="22">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="pwbhA8vGE5dWIsQhsapH-1" value="截图发题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
           <mxGeometry x="319.5" y="281" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pwbhA8vGE5dWIsQhsapH-2" value="课堂统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
+        <mxCell id="pwbhA8vGE5dWIsQhsapH-2" value="练习统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
           <mxGeometry x="189.75" y="351" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pwbhA8vGE5dWIsQhsapH-3" value="课堂总结" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
@@ -200,7 +200,7 @@
         <mxCell id="oF1ErSRjBmM3fEyuZMwx-53" value="课堂管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
           <mxGeometry x="361" y="-800" width="97.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oF1ErSRjBmM3fEyuZMwx-56" value="习题统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
+        <mxCell id="oF1ErSRjBmM3fEyuZMwx-56" value="练习统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
           <mxGeometry x="672" y="-820.5" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oF1ErSRjBmM3fEyuZMwx-57" value="课堂总结" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
@@ -593,7 +593,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7OPa_1LoBj2C91qyEaii" name="逻辑组件构成">
-    <mxGraphModel dx="1422" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QfaEs2_1KEUAuGlLSLdg-0" />
         <mxCell id="QfaEs2_1KEUAuGlLSLdg-1" parent="QfaEs2_1KEUAuGlLSLdg-0" />
@@ -679,7 +679,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2_zi1aDqrx1x08zvzbXu" name="物理组件构成">
-    <mxGraphModel dx="1422" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="apTTdXJnjvnoFx_-e-7i-0" />
         <mxCell id="apTTdXJnjvnoFx_-e-7i-1" parent="apTTdXJnjvnoFx_-e-7i-0" />
@@ -741,7 +741,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_RtV84z0H-kQ9U_ldpE2" name="PAD学生端 - H5组件">
-    <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vJPe_vNQj6c6dDPJMC6I-0" />
         <mxCell id="vJPe_vNQj6c6dDPJMC6I-1" parent="vJPe_vNQj6c6dDPJMC6I-0" />
@@ -1497,7 +1497,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="h_oJWpKMELo37JKa5Q3P" name="随堂练习统计">
+  <diagram id="h_oJWpKMELo37JKa5Q3P" name="练习统计">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="44IQEjGcGj7RJWudivxI-0" />
