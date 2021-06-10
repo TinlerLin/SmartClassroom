@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T11:30:26.437Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="-SuZiqTEkaeUNPVFaxvr" version="14.7.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-10T11:32:26.208Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="C3pyDVLebnyWPLUSll60" version="14.7.6" type="github" pages="5">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1194,17 +1194,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TGEysLbteS4HCTc8z6Tv-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=14;strokeWidth=1;align=left;" vertex="1" parent="6IQX95337TqHllkNd27V-34">
-          <mxGeometry x="65" y="420" width="10" height="90" as="geometry" />
+          <mxGeometry x="65" y="398" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TGEysLbteS4HCTc8z6Tv-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=14;strokeWidth=1;align=left;" vertex="1" parent="6IQX95337TqHllkNd27V-34">
-          <mxGeometry x="69" y="458" width="10" height="40" as="geometry" />
+          <mxGeometry x="69" y="436" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TGEysLbteS4HCTc8z6Tv-13" value="更新课堂状态" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;exitX=1;exitY=0.222;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="TGEysLbteS4HCTc8z6Tv-12" parent="6IQX95337TqHllkNd27V-34" source="TGEysLbteS4HCTc8z6Tv-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="79" y="440" as="sourcePoint" />
+            <mxPoint x="79" y="418" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="100" y="440" />
-              <mxPoint x="100" y="458" />
+              <mxPoint x="100" y="418" />
+              <mxPoint x="100" y="436" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1244,6 +1244,13 @@
         </mxCell>
         <mxCell id="RHzKK9sQUJPr8s9Q7IlH-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=14;align=left;" vertex="1" parent="6IQX95337TqHllkNd27V-34">
           <mxGeometry x="240" y="170" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TGEysLbteS4HCTc8z6Tv-10" value="开始X课堂活动" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=14;exitX=0.1;exitY=0.956;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6IQX95337TqHllkNd27V-34" source="TGEysLbteS4HCTc8z6Tv-6" target="TGEysLbteS4HCTc8z6Tv-11">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="239" y="400" as="sourcePoint" />
+            <mxPoint x="319" y="400" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6IQX95337TqHllkNd27V-10" value="消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;" vertex="1" parent="8R1aZJ102GDwXLxpoEAM-1">
           <mxGeometry x="441" y="410" width="100" height="1210" as="geometry" />
@@ -1324,15 +1331,6 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="345" y="757" as="sourcePoint" />
             <mxPoint x="420" y="750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TGEysLbteS4HCTc8z6Tv-10" value="开始X课堂活动" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=14;" edge="1" parent="8R1aZJ102GDwXLxpoEAM-1" source="6IQX95337TqHllkNd27V-10" target="RHzKK9sQUJPr8s9Q7IlH-10">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="340" y="760" as="sourcePoint" />
-            <mxPoint x="420" y="760" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="790" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RHzKK9sQUJPr8s9Q7IlH-25" value="课堂活动ID" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=14;entryX=0.8;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.1;exitY=0.911;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="8R1aZJ102GDwXLxpoEAM-1" source="RHzKK9sQUJPr8s9Q7IlH-22" target="TGEysLbteS4HCTc8z6Tv-6">
