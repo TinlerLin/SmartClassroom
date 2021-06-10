@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T08:32:39.253Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="hHWRPEOdsr5su_QOerJ3" version="14.7.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-10T08:35:12.412Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="DwqWtecw40n4ZoZ8P1Qm" version="14.7.6" type="github" pages="5">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1050,7 +1050,7 @@
             <mxPoint x="189" y="1081" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6IQX95337TqHllkNd27V-34" value="Client - 老师端" style="swimlane;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="8R1aZJ102GDwXLxpoEAM-1">
+        <mxCell id="6IQX95337TqHllkNd27V-34" value="Client - 老师端" style="swimlane;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="8R1aZJ102GDwXLxpoEAM-1">
           <mxGeometry x="101" y="360" width="470" height="1270" as="geometry" />
         </mxCell>
         <mxCell id="RHzKK9sQUJPr8s9Q7IlH-10" value="课堂活动&lt;br&gt;管理器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;" vertex="1" parent="6IQX95337TqHllkNd27V-34">
@@ -1069,7 +1069,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6IQX95337TqHllkNd27V-2" value="X课堂活动&lt;br&gt;组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;" vertex="1" parent="6IQX95337TqHllkNd27V-34">
-          <mxGeometry x="190" y="50" width="100" height="1210" as="geometry" />
+          <mxGeometry x="190" y="50" width="109" height="1210" as="geometry" />
         </mxCell>
         <mxCell id="RHzKK9sQUJPr8s9Q7IlH-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=14;align=left;" vertex="1" parent="6IQX95337TqHllkNd27V-2">
           <mxGeometry x="45" y="120" width="10" height="80" as="geometry" />
@@ -1079,12 +1079,6 @@
         </mxCell>
         <mxCell id="TGEysLbteS4HCTc8z6Tv-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=14;strokeWidth=1;align=left;" vertex="1" parent="6IQX95337TqHllkNd27V-2">
           <mxGeometry x="45" y="910" width="10" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="TGEysLbteS4HCTc8z6Tv-28" value="结束当前课堂活动" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=14;" edge="1" parent="6IQX95337TqHllkNd27V-2" target="6IQX95337TqHllkNd27V-30">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="49" y="920" as="sourcePoint" />
-            <mxPoint x="129" y="920" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="TGEysLbteS4HCTc8z6Tv-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=14;strokeWidth=1;align=left;" vertex="1" parent="6IQX95337TqHllkNd27V-2">
           <mxGeometry x="45" y="1100" width="10" height="30" as="geometry" />
@@ -1156,6 +1150,9 @@
               <mxPoint x="104" y="1096" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TGEysLbteS4HCTc8z6Tv-49" value="1. 系统规则自动结束&lt;br&gt;2. 老师主动结束" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#FF0000;" vertex="1" parent="6IQX95337TqHllkNd27V-34">
+          <mxGeometry x="100" y="950" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6IQX95337TqHllkNd27V-27" value="Server" style="swimlane;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="8R1aZJ102GDwXLxpoEAM-1">
           <mxGeometry x="571" y="360" width="300" height="1270" as="geometry" />
@@ -1239,7 +1236,7 @@
         <mxCell id="TGEysLbteS4HCTc8z6Tv-33" value="返回结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=14;" edge="1" parent="6IQX95337TqHllkNd27V-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="79" y="1000" as="sourcePoint" />
-            <mxPoint x="-221" y="1000" as="targetPoint" />
+            <mxPoint x="-231" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6IQX95337TqHllkNd27V-0" value="老师" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;" vertex="1" parent="8R1aZJ102GDwXLxpoEAM-1">
@@ -1350,6 +1347,12 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="480" y="1446" as="sourcePoint" />
             <mxPoint x="170.5" y="1447" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGEysLbteS4HCTc8z6Tv-28" value="结束当前课堂活动" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=14;exitX=0.9;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="8R1aZJ102GDwXLxpoEAM-1" source="TGEysLbteS4HCTc8z6Tv-19" target="6IQX95337TqHllkNd27V-30">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="350" y="1330" as="sourcePoint" />
+            <mxPoint x="420" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
