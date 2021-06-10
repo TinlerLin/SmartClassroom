@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T08:38:07.891Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="-FppnLWL9c8NUPZ4HCev" version="14.7.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-10T08:38:28.962Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="3xb2m99C8cXm_Mx-mjVr" version="14.7.6" type="github" pages="5">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -917,7 +917,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="H3Nog-JdQgVGp9WbKwVz" name="课堂活动的基本规范">
+  <diagram id="H3Nog-JdQgVGp9WbKwVz" name="课堂活动的标准规范">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8R1aZJ102GDwXLxpoEAM-0" />
