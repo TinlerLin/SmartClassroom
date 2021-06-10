@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T12:18:28.008Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="6pb9PfYK1-PZFOknorIg" version="14.7.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-10T12:20:25.158Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="wX_L-K0KjtavNgiUsoEX" version="14.7.6" type="github" pages="6">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="450" y="121" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Al2z9ClqBcWulVMLrW0T-6" value="随机点名" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
-          <mxGeometry x="840" y="121" width="120" height="60" as="geometry" />
+          <mxGeometry x="709" y="121" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Al2z9ClqBcWulVMLrW0T-7" value="学科工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
           <mxGeometry x="319.75" y="431" width="120" height="60" as="geometry" />
@@ -26,10 +26,10 @@
           <mxGeometry x="449.75" y="431" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Al2z9ClqBcWulVMLrW0T-9" value="抢答" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
-          <mxGeometry x="970" y="121" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="121" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Al2z9ClqBcWulVMLrW0T-10" value="送花" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
-          <mxGeometry x="1100" y="121" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="121" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pwbhA8vGE5dWIsQhsapH-0" value="课件习题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
           <mxGeometry x="189.5" y="281" width="120" height="60" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="40" y="371" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Npib2aF4o1GfoydxgvZe-1" value="下发资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
-          <mxGeometry x="1230.5" y="121" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="191" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Npib2aF4o1GfoydxgvZe-2" value="学情统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
           <mxGeometry x="449.75" y="351" width="120" height="60" as="geometry" />
@@ -94,7 +94,7 @@
           <mxGeometry x="449.75" y="281" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Npib2aF4o1GfoydxgvZe-12" value="推屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
-          <mxGeometry x="710" y="121" width="120" height="60" as="geometry" />
+          <mxGeometry x="579.75" y="191" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nBkIe1I3A0UdcWKPP7lj-0" value="同屏对比" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
           <mxGeometry x="579.75" y="121" width="120" height="60" as="geometry" />
