@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T10:26:10.524Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="cW9dvEeFM1_MJXLHHor5" version="14.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-10T11:10:22.210Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="bKlHUeoyYlZ6c96LrvQZ" version="14.7.6" type="github" pages="2">
   <diagram id="3sxCyzxmlDMb0Yl7uwUy" name="游戏平台化">
     <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -188,6 +188,72 @@
       <root>
         <mxCell id="Q9uFd8VaZe3jLiWxY_sF-0" />
         <mxCell id="Q9uFd8VaZe3jLiWxY_sF-1" parent="Q9uFd8VaZe3jLiWxY_sF-0" />
+        <mxCell id="oDrI6kNPjoDtFns_VViP-21" value="教育小游戏" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;verticalAlign=top;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="40" y="560" width="710" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-0" value="小游戏集" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="90" y="690" width="600" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="130" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-1" value="RPG" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="140" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="230" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-8" value="ACT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="240" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="330" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-10" value="FPS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="340" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="440" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-12" value="RPG" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="450" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="550" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-14" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="560" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-15" value="小游戏接入层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="90" y="610" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-16" value="上层应用产品" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;align=left;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="40" y="360" width="710" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-17" value="学习空间/Edbox" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="120" y="420" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-18" value="ToC学习平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="270" y="420" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-19" value="Edmodo/电子课本" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="400" y="420" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-20" value="... ..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=center;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="560" y="420" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-22" value="小游戏管理后台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=top;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="90" y="1030" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-23" value="学习目标" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="90" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-24" value="NDR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;verticalAlign=middle;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="250" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oDrI6kNPjoDtFns_VViP-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;verticalAlign=top;" vertex="1" parent="Q9uFd8VaZe3jLiWxY_sF-1">
+          <mxGeometry x="285" y="1030" width="170" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
