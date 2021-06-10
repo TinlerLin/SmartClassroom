@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T13:12:47.657Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="S4-SsSw9Uf_gM-OPzzPU" version="14.7.6" type="github">
-  <diagram id="3sxCyzxmlDMb0Yl7uwUy" name="Page-1">
-    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-06-10T10:26:10.524Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="cW9dvEeFM1_MJXLHHor5" version="14.7.6" type="github" pages="2">
+  <diagram id="3sxCyzxmlDMb0Yl7uwUy" name="游戏平台化">
+    <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,6 +180,14 @@
         <mxCell id="-sCcHw5f4LCHTsltumGR-52" value="Prodigy&amp;nbsp; 技能属性相生相克" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="970" y="690" width="190" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fAVtbhbSrlvxf_bOo4lz" name="教育小游戏">
+    <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Q9uFd8VaZe3jLiWxY_sF-0" />
+        <mxCell id="Q9uFd8VaZe3jLiWxY_sF-1" parent="Q9uFd8VaZe3jLiWxY_sF-0" />
       </root>
     </mxGraphModel>
   </diagram>
