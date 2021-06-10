@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T08:37:15.289Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="7t61B01o42utT8kisomj" version="14.7.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-10T08:37:24.969Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="P5Pe6ba6RpccrN3bOXGn" version="14.7.6" type="github" pages="5">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1135,7 +1135,7 @@
             <mxPoint x="-231" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6IQX95337TqHllkNd27V-34" value="Client - 老师端" style="swimlane;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="8R1aZJ102GDwXLxpoEAM-1">
+        <mxCell id="6IQX95337TqHllkNd27V-34" value="Client - 老师端" style="swimlane;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="8R1aZJ102GDwXLxpoEAM-1">
           <mxGeometry x="101" y="360" width="470" height="1270" as="geometry" />
         </mxCell>
         <mxCell id="6IQX95337TqHllkNd27V-2" value="X课堂活动&lt;br&gt;组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;" vertex="1" parent="6IQX95337TqHllkNd27V-34">
