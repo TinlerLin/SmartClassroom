@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T11:42:57.293Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="zv1j_p5cJ1lvujG58jPP" version="14.7.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-10T11:52:45.243Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="cCkhlQYRuO9eBETBfGn2" version="14.7.6" type="github" pages="5">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1139,10 +1139,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6IQX95337TqHllkNd27V-34" value="Client - 老师端" style="swimlane;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="8R1aZJ102GDwXLxpoEAM-1">
-          <mxGeometry x="141" y="360" width="469" height="1270" as="geometry" />
+          <mxGeometry x="141" y="360" width="1360" height="1270" as="geometry" />
         </mxCell>
         <mxCell id="-O1RGn9ifNqLk3UrysWd-0" value="&lt;b&gt;结束&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;strokeWidth=1;align=left;verticalAlign=top;width=49;height=30;" vertex="1" parent="6IQX95337TqHllkNd27V-34">
-          <mxGeometry x="30" y="950" width="1130" height="270" as="geometry" />
+          <mxGeometry x="10" y="950" width="1150" height="270" as="geometry" />
         </mxCell>
         <mxCell id="6IQX95337TqHllkNd27V-2" value="X课堂活动&lt;br&gt;组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;" vertex="1" parent="6IQX95337TqHllkNd27V-34">
           <mxGeometry x="190" y="50" width="109" height="1210" as="geometry" />
@@ -1253,7 +1253,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V2UxpH_z-5zovAq6Y57C-0" value="&lt;b&gt;互动&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;strokeColor=#000000;strokeWidth=1;align=left;verticalAlign=top;width=49;height=30;" vertex="1" parent="6IQX95337TqHllkNd27V-34">
-          <mxGeometry x="200" y="600" width="1160" height="343" as="geometry" />
+          <mxGeometry x="190" y="600" width="1170" height="343" as="geometry" />
         </mxCell>
         <mxCell id="6IQX95337TqHllkNd27V-10" value="消息通信组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=15;" vertex="1" parent="8R1aZJ102GDwXLxpoEAM-1">
           <mxGeometry x="481" y="410" width="100" height="1210" as="geometry" />
