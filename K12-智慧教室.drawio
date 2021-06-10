@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T09:19:07.977Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="YS7kHNDXgU9QZ3jizGuF" version="14.7.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-10T09:19:48.432Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="tPr7UJRunC7dYZ1Q30Nf" version="14.7.6" type="github" pages="5">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1139,7 +1139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6IQX95337TqHllkNd27V-34" value="Client - 老师端" style="swimlane;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="8R1aZJ102GDwXLxpoEAM-1">
-          <mxGeometry x="101" y="360" width="1160" height="1270" as="geometry" />
+          <mxGeometry x="101" y="360" width="469" height="1270" as="geometry" />
         </mxCell>
         <mxCell id="-O1RGn9ifNqLk3UrysWd-0" value="结束课堂活动" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;strokeWidth=1;align=left;verticalAlign=top;width=89;height=29;" vertex="1" parent="6IQX95337TqHllkNd27V-34">
           <mxGeometry x="10" y="941" width="1150" height="279" as="geometry" />
