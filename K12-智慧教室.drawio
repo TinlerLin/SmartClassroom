@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T13:47:26.675Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="cF62YZQ3Oe5-dN62yplk" version="14.7.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-10T13:48:49.137Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="bsNFHtiqFa9gr8MmS--y" version="14.7.6" type="github" pages="6">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -479,7 +479,7 @@
           <mxGeometry x="524" y="-1006" width="106" height="69" as="geometry" />
         </mxCell>
         <mxCell id="xOB49kr0a_hiN0VMqa8N-25" value="课堂通信服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;verticalAlign=middle;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
-          <mxGeometry x="190" y="-653" width="290" height="30" as="geometry" />
+          <mxGeometry x="190" y="-653" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dP6AfJNWbYUQenrDkaae-6" value="MQ" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mq;fontFamily=Helvetica;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
           <mxGeometry x="410" y="-96.75" width="55" height="55" as="geometry" />
@@ -689,6 +689,9 @@
         </mxCell>
         <mxCell id="mNxHqqMjaXD91AoejDWe-0" value="课堂功能&lt;br&gt;配置数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;align=center;verticalAlign=middle;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
           <mxGeometry x="668.5" y="-613.5" width="101" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mNxHqqMjaXD91AoejDWe-1" value="课堂功能配置服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;verticalAlign=middle;labelBorderColor=none;" vertex="1" parent="kfhUvre5dACyf526zLbA-1">
+          <mxGeometry x="339" y="-653" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
