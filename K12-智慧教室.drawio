@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T06:14:36.035Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="K4O98TPuChX5h__XK8un" version="14.7.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-15T06:14:45.510Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="A5rMMI5aK8o49nTUZyuY" version="14.7.7" type="github" pages="6">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
     <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="pwbhA8vGE5dWIsQhsapH-5" value="资源类型：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
           <mxGeometry x="45" y="451" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pwbhA8vGE5dWIsQhsapH-6" value="课堂活动：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
+        <mxCell id="pwbhA8vGE5dWIsQhsapH-6" value="课堂互动：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
           <mxGeometry x="40.25" y="181" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pwbhA8vGE5dWIsQhsapH-7" value="统计分析：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="Al2z9ClqBcWulVMLrW0T-1" vertex="1">
