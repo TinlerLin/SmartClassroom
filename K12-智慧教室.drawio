@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T15:38:25.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="rmOmmVAIcw804DX1PkKz" version="20.4.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-26T09:23:40.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="efo3TBXdHY5-QkC_hj0T" version="24.0.7" type="github" pages="7">
   <diagram id="ySIho5F88poUKS7YFDeH" name="功能结构">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1626" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Al2z9ClqBcWulVMLrW0T-0" />
         <mxCell id="Al2z9ClqBcWulVMLrW0T-1" parent="Al2z9ClqBcWulVMLrW0T-0" />
@@ -109,7 +109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0-UcBaOzxRKuuLvSctX2" name="领域模型">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1626" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LkgQvpGrtlsXoamJsfuA-0" />
         <mxCell id="LkgQvpGrtlsXoamJsfuA-1" parent="LkgQvpGrtlsXoamJsfuA-0" />
@@ -201,7 +201,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jCOXkbCb2Q_O_GNEQmbp" name="系统总体架构">
-    <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1626" dy="2048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kfhUvre5dACyf526zLbA-0" />
         <mxCell id="kfhUvre5dACyf526zLbA-1" parent="kfhUvre5dACyf526zLbA-0" />
@@ -247,10 +247,10 @@
         <mxCell id="oF1ErSRjBmM3fEyuZMwx-1" value="上线/下线" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
           <mxGeometry x="210" y="-800" width="97.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oF1ErSRjBmM3fEyuZMwx-5" value="应用服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
+        <mxCell id="oF1ErSRjBmM3fEyuZMwx-5" value="应&lt;div&gt;用&lt;/div&gt;&lt;div&gt;服&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
           <mxGeometry x="111" y="-750.5" width="50.75" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="oF1ErSRjBmM3fEyuZMwx-6" value="数据层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
+        <mxCell id="oF1ErSRjBmM3fEyuZMwx-6" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
           <mxGeometry x="111" y="-547" width="50.75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="oF1ErSRjBmM3fEyuZMwx-7" value="通用组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
@@ -274,7 +274,7 @@
             <mxPoint x="792.5" y="-331" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oF1ErSRjBmM3fEyuZMwx-41" value="协议层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
+        <mxCell id="oF1ErSRjBmM3fEyuZMwx-41" value="协&lt;div&gt;议&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
           <mxGeometry x="106.75" y="-406.25" width="59.25" height="10.5" as="geometry" />
         </mxCell>
         <mxCell id="oF1ErSRjBmM3fEyuZMwx-42" value="" style="endArrow=none;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=24;" parent="kfhUvre5dACyf526zLbA-1" edge="1">
