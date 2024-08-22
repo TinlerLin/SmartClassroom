@@ -242,7 +242,7 @@
           <mxGeometry x="123" y="59" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="oF1ErSRjBmM3fEyuZMwx-0" value="基础支撑" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cce5ff;strokeColor=#36393d;horizontal=1;verticalAlign=top;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
-          <mxGeometry x="830" y="-1037" width="120" height="1026" as="geometry" />
+          <mxGeometry x="830" y="-1040" width="120" height="1029" as="geometry" />
         </mxCell>
         <mxCell id="oF1ErSRjBmM3fEyuZMwx-1" value="上线/下线" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
           <mxGeometry x="210" y="-800" width="97.5" height="40" as="geometry" />
@@ -398,7 +398,7 @@
           <mxGeometry x="468.75" y="-181" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-67" value="标&lt;br&gt;&lt;br&gt;准&lt;br&gt;&lt;br&gt;与&lt;br&gt;&lt;br&gt;规&lt;br&gt;&lt;br&gt;范&lt;br&gt;&lt;br&gt;体&lt;br&gt;&lt;br&gt;系" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;horizontal=1;verticalAlign=middle;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
-          <mxGeometry x="796" y="-1037" width="30" height="1026" as="geometry" />
+          <mxGeometry x="796" y="-1040" width="30" height="1029" as="geometry" />
         </mxCell>
         <mxCell id="31CQN18y-Qgl9atk13FE-69" value="老师授课端&lt;br&gt;PC/Web" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="kfhUvre5dACyf526zLbA-1" vertex="1">
           <mxGeometry x="210" y="-1007" width="117.2" height="120" as="geometry" />
